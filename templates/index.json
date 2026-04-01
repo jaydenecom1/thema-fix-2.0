@@ -57,6 +57,7 @@
           "type": "collection",
           "settings": {
             "collection": "frontpage",
+            "image": "shopify://shop_images/Ontwerp_zonder_titel_1.png",
             "subheading": "",
             "title": "Dresses",
             "url": "shopify://collections/dresses-v-new",
