@@ -125,7 +125,9 @@
       "type": "featured-collection",
       "settings": {
         "collection": "apr-mannen",
-        "products": [],
+        "products": [
+          "annie-chic-midi-dress"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
