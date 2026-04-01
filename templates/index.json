@@ -157,17 +157,10 @@
             "text": "Lunari Lane",
             "heading_tag": "h0"
           }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>For lovers of smart casual clothing</p>"
-          }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "1664424230c4756b0e-1"
       ],
       "settings": {
         "full_width": true,
