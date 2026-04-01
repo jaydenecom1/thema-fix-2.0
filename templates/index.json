@@ -127,7 +127,7 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Beyond Chic London",
+            "text": "Lunari Lane",
             "heading_tag": "h0"
           }
         },
@@ -147,6 +147,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/1775041010466-01cdef2f-a7e7-4adc-807c-7e1141c34eef.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
