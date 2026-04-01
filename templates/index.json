@@ -225,6 +225,7 @@
         "image_GiUtXd": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_1_apr_2026_14_37_12.png",
             "title": "About us",
             "heading_tag": "h4",
             "link_url": "shopify://pages/about-us",
