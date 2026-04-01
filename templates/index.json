@@ -70,7 +70,7 @@
         "collection_8kjaBc": {
           "type": "collection",
           "settings": {
-            "collection": "tops-shirts",
+            "collection": "sweaters",
             "subheading": "",
             "title": "Blazers",
             "url": "shopify://collections/blazers-v-new",
@@ -84,9 +84,10 @@
         "collection_AYhnCe": {
           "type": "collection",
           "settings": {
-            "collection": "footwear",
+            "collection": "tops-shirts",
+            "image": "shopify://shop_images/7_7cdcfb61-f963-49be-b864-a19db91e8bda_720x-Photoroom.jpg",
             "subheading": "",
-            "title": "Shorts",
+            "title": "Tops & Shirts",
             "url": "shopify://collections/short-skirts-v-new",
             "heading_tag": "h3",
             "text_position": "place-self-center text-center",
