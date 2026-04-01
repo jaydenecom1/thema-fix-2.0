@@ -56,7 +56,7 @@
         "collection_NFrXEB": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
             "subheading": "",
             "title": "Dresses",
             "url": "shopify://collections/dresses-v-new",
@@ -70,7 +70,7 @@
         "collection_8kjaBc": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "tops-shirts",
             "subheading": "",
             "title": "Blazers",
             "url": "shopify://collections/blazers-v-new",
@@ -84,7 +84,7 @@
         "collection_AYhnCe": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "footwear",
             "subheading": "",
             "title": "Shorts",
             "url": "shopify://collections/short-skirts-v-new",
