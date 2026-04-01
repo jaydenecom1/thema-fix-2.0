@@ -181,6 +181,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Vrouw_biedt_klantenservice_in_Lunari_Lane.png",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
