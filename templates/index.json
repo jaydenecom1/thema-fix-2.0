@@ -70,9 +70,10 @@
         "collection_8kjaBc": {
           "type": "collection",
           "settings": {
-            "collection": "sweaters",
+            "collection": "footwear",
+            "image": "shopify://shop_images/94b19cbbff534065887fa3d00f3ee103.jpg",
             "subheading": "",
-            "title": "Blazers",
+            "title": "Footwear",
             "url": "shopify://collections/blazers-v-new",
             "heading_tag": "h3",
             "text_position": "place-self-center text-center",
