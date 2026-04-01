@@ -126,7 +126,9 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "annie-chic-midi-dress"
+          "annie-chic-midi-dress",
+          "annie-elegant-flattering-dress",
+          "annie-fitted-dress"
         ],
         "full_width": true,
         "stack_products": false,
