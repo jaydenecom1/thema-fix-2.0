@@ -121,6 +121,31 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_3Uqkx8": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "apr-mannen",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "New for Her",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -153,31 +178,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 10
-      }
-    },
-    "featured_collection_3Uqkx8": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "apr-mannen",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "New for Her",
-        "content": "",
-        "link_url": "shopify://collections/all",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "media-grid": {
@@ -325,8 +325,8 @@
   "order": [
     "slideshow_TJ8KBa",
     "collection-list",
-    "image-with-text-overlay",
     "featured_collection_3Uqkx8",
+    "image-with-text-overlay",
     "media-grid",
     "faq"
   ]
