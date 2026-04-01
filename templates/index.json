@@ -203,6 +203,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_1_apr_2026_14_28_03.png",
             "title": "Join Our Team",
             "heading_tag": "h4",
             "link_url": "shopify://pages/join-our-team",
