@@ -100,12 +100,12 @@
         },
         "collection_xPtrd6": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/5cc25c8a-3f08-4ee7-8d48-d4da8b56deb0.png",
             "subheading": "",
-            "title": "",
-            "url": "",
+            "title": "Elegant Nightwear",
+            "url": "shopify://collections/elegant-nightwear",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
