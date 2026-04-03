@@ -60,7 +60,7 @@
             "image": "shopify://shop_images/Ontwerp_zonder_titel_1.png",
             "subheading": "",
             "title": "Dresses",
-            "url": "shopify://collections/frontpage",
+            "url": "shopify://collections/dresses-v-new",
             "heading_tag": "h3",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -126,9 +126,11 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "annie-chic-midi-dress",
-          "annie-elegant-flattering-dress",
-          "leilah"
+          "alice-1",
+          "emilia-swimsuit-ly",
+          "elizabeth",
+          "fiona",
+          "harriet-1"
         ],
         "full_width": true,
         "stack_products": false,
