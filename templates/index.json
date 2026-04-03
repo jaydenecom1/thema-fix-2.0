@@ -53,6 +53,21 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
+        "collection_MwBkLi": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/S230bf344527642e8b0868ade2344cfeeo_851e6a07-c9a1-4efd-a002-ffb892f9237a.webp",
+            "subheading": "",
+            "title": "Bags",
+            "url": "shopify://collections/leather-bags",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_NFrXEB": {
           "type": "collection",
           "settings": {
@@ -130,6 +145,7 @@
         }
       },
       "block_order": [
+        "collection_MwBkLi",
         "collection_NFrXEB",
         "collection_8kjaBc",
         "collection_jkzMyJ",
