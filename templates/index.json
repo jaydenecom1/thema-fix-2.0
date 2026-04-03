@@ -98,6 +98,21 @@
             "overlay_opacity": 30
           }
         },
+        "collection_xPtrd6": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_AYhnCe": {
           "type": "collection",
           "settings": {
@@ -105,7 +120,7 @@
             "image": "shopify://shop_images/Ontwerp_zonder_titel_3.png",
             "subheading": "",
             "title": "Tops & Shirts",
-            "url": "shopify://collections/short-skirts-v-new",
+            "url": "shopify://collections/tops-shirts",
             "heading_tag": "h3",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -118,12 +133,13 @@
         "collection_NFrXEB",
         "collection_8kjaBc",
         "collection_jkzMyJ",
+        "collection_xPtrd6",
         "collection_AYhnCe"
       ],
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row": 3,
+        "collections_per_row": 5,
         "show_progress_bar": false,
         "subheading": "",
         "title": "Summer Sets Woman",
