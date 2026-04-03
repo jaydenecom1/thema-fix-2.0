@@ -85,12 +85,12 @@
         },
         "collection_jkzMyJ": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/195_668efef4-8efd-4af8-a26d-cc4cc694235e.png",
             "subheading": "",
-            "title": "Tops & shirts",
-            "url": "shopify://collections/tops-shirts",
+            "title": "Swimsuits",
+            "url": "shopify://collections/swimsuits",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
