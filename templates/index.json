@@ -53,6 +53,21 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
+        "collection_hpxR9Y": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/88bc56e0f16ffc7d91f3b5e622d96ed9.jpg",
+            "subheading": "",
+            "title": "Summersets 2-Pieces",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_MwBkLi": {
           "type": "collection",
           "settings": {
@@ -145,6 +160,7 @@
         }
       },
       "block_order": [
+        "collection_hpxR9Y",
         "collection_MwBkLi",
         "collection_NFrXEB",
         "collection_8kjaBc",
