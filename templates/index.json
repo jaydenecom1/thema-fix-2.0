@@ -85,6 +85,7 @@
         },
         "collection_jkzMyJ": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "subheading": "",
