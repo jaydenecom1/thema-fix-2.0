@@ -231,6 +231,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "links_DYbNDr": {
+            "type": "links",
+            "settings": {
+              "menu": "policy",
+              "show_menu_title": true
+            }
+          },
           "newsletter": {
             "type": "newsletter",
             "settings": {
@@ -257,6 +264,7 @@
           }
         },
         "block_order": [
+          "links_DYbNDr",
           "newsletter",
           "links",
           "text_U7XWWJ"
