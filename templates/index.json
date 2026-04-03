@@ -83,6 +83,20 @@
             "overlay_opacity": 30
           }
         },
+        "collection_jkzMyJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "Tops & shirts",
+            "url": "shopify://collections/tops-shirts",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_AYhnCe": {
           "type": "collection",
           "settings": {
@@ -102,6 +116,7 @@
       "block_order": [
         "collection_NFrXEB",
         "collection_8kjaBc",
+        "collection_jkzMyJ",
         "collection_AYhnCe"
       ],
       "settings": {
