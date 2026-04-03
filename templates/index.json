@@ -53,36 +53,6 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection_hpxR9Y": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/e48aa0ad1030688d6db70cc72ae16d29.png",
-            "subheading": "",
-            "title": "Summersets 2-Pieces",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_MwBkLi": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/S230bf344527642e8b0868ade2344cfeeo_851e6a07-c9a1-4efd-a002-ffb892f9237a.webp",
-            "subheading": "",
-            "title": "Bags",
-            "url": "shopify://collections/leather-bags",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_NFrXEB": {
           "type": "collection",
           "settings": {
@@ -107,21 +77,6 @@
             "title": "Footwear",
             "url": "shopify://collections/footwear",
             "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_jkzMyJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/195_668efef4-8efd-4af8-a26d-cc4cc694235e.png",
-            "subheading": "",
-            "title": "Swimsuits",
-            "url": "shopify://collections/swimsuits",
-            "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -160,18 +115,15 @@
         }
       },
       "block_order": [
-        "collection_hpxR9Y",
-        "collection_MwBkLi",
         "collection_NFrXEB",
         "collection_8kjaBc",
-        "collection_jkzMyJ",
         "collection_xPtrd6",
         "collection_AYhnCe"
       ],
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row": 5,
+        "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
         "title": "Summer Sets Woman",
