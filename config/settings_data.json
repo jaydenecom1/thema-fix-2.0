@@ -108,7 +108,7 @@
           "logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo.png",
           "logo_max_width": 230,
           "logo_mobile_max_width": 150,
-          "menu": "",
+          "menu": "hoofd",
           "sidebar_menu": "",
           "secondary_menu": "",
           "menu_open_trigger": "click",
