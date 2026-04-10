@@ -51,48 +51,16 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "message": {
+          "message_iGVK6H": {
             "type": "message",
             "settings": {
-              "text": "FINAL SALE, EVERYTHING MUST GO",
-              "url": ""
-            }
-          },
-          "message_GNqkFX": {
-            "type": "message",
-            "settings": {
-              "text": "ORDER BEFORE 11:00 PM, SHIPPED TODAY",
-              "url": ""
-            }
-          },
-          "message_CGMRrw": {
-            "type": "message",
-            "settings": {
-              "text": "LIMITED STOCK, ONCE IT'S GONE, IT'S GONE",
-              "url": ""
-            }
-          },
-          "message_qaTgBz": {
-            "type": "message",
-            "settings": {
-              "text": "100% MONEY BACK GUARANTEE",
-              "url": ""
-            }
-          },
-          "message_3aWaUe": {
-            "type": "message",
-            "settings": {
-              "text": "ALWAYS FREE PREMIUM SHIPPING",
+              "text": "Our final sale because we are moving to a larger premises",
               "url": ""
             }
           }
         },
         "block_order": [
-          "message",
-          "message_GNqkFX",
-          "message_CGMRrw",
-          "message_qaTgBz",
-          "message_3aWaUe"
+          "message_iGVK6H"
         ],
         "settings": {
           "enable_sticky": false,
