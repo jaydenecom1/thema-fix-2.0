@@ -246,7 +246,7 @@
               "image_width": 150,
               "heading_size": "h3",
               "title": "Get a chance to win $100 shopping credit",
-              "content": "<p>Every month we give $100 to one of our loyal Lunari Lane customers!</p>"
+              "content": "<p>Every month we give $100 to one of our loyal Julia & Sophie Charleston customers!</p>"
             }
           },
           "links": {
@@ -293,6 +293,14 @@
           "title": "Signup for our newsletter",
           "button_text": "Subscribe",
           "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        }
+      },
+      "main-gift-card": {
+        "type": "main-gift-card",
+        "settings": {
+          "show_qr_code": true,
+          "amount_background": "",
+          "amount_text_color": ""
         }
       }
     },
