@@ -106,13 +106,41 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "mega_menu_zrY7cC": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "",
+              "layout": "horizontal",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "hide"
+            }
+          }
+        },
+        "block_order": [
+          "mega_menu_zrY7cC"
+        ],
         "settings": {
           "enable_sticky": true,
           "hide_on_scroll": false,
-          "logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo.png",
+          "logo": "shopify://shop_images/Elwood_1.png",
           "logo_max_width": 230,
-          "logo_mobile_max_width": 145,
-          "menu": "hoofd",
+          "logo_mobile_max_width": 150,
+          "menu": "",
           "sidebar_menu": "",
           "secondary_menu": "",
           "menu_open_trigger": "click",
@@ -124,7 +152,6 @@
           "show_country_flag": true,
           "show_country_name": false,
           "transparent_header_text_color": "#ffffff",
-          "transparent_logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo_1.png",
           "reduce_padding": false,
           "background_opacity": 100,
           "background_blur_radius": 0
@@ -235,7 +262,7 @@
           "links_DYbNDr": {
             "type": "links",
             "settings": {
-              "menu": "policy",
+              "menu": "",
               "show_menu_title": true
             }
           },
@@ -316,24 +343,9 @@
           "preselect_variant": false
         }
       },
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
       "14952540001915115444": {
         "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
         "disabled": false,
-        "settings": {}
-      },
-      "10312807297210203588": {
-        "type": "shopify://apps/rokt-aftersell/blocks/utm-triggers/509ec35d-0632-4dfc-a105-fa799cd9d149",
-        "disabled": false,
-        "settings": {}
-      },
-      "8778269090131883189": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block-v2/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": true,
         "settings": {}
       },
       "17198465164502963513": {
