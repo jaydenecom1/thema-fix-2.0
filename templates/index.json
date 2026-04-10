@@ -15,7 +15,7 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/taisiia-stupak-E8R93j-pvKs-unsplash_1.jpg",
+            "image": "shopify://shop_images/een-vrouw-60-jaar-met-een-dochter-die-35-jaar-oud-is-ze-staan-samen-in-hun-kledingwinkel-de-winkel-heet-julia-sophie-charleston.png",
             "content_max_width": 700,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -57,7 +57,6 @@
           "type": "collection",
           "settings": {
             "collection": "frontpage",
-            "image": "shopify://shop_images/Ontwerp_zonder_titel_1.png",
             "subheading": "",
             "title": "Dresses",
             "url": "shopify://collections/frontpage",
@@ -72,7 +71,6 @@
           "type": "collection",
           "settings": {
             "collection": "footwear",
-            "image": "shopify://shop_images/Ontwerp_zonder_titel_2.png",
             "subheading": "",
             "title": "Footwear",
             "url": "shopify://collections/footwear",
@@ -187,7 +185,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_1_apr_2026_16_05_17.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -201,7 +198,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vrouw_biedt_klantenservice_in_Lunari_Lane.png",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -223,7 +219,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_1_apr_2026_14_29_54.png",
             "title": "Join Our Team",
             "heading_tag": "h4",
             "link_url": "shopify://pages/join-our-team",
@@ -245,7 +240,6 @@
         "image_GiUtXd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_1_apr_2026_14_37_12.png",
             "title": "About us",
             "heading_tag": "h4",
             "link_url": "shopify://pages/about-us",
