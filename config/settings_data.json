@@ -105,7 +105,7 @@
         "settings": {
           "enable_sticky": true,
           "hide_on_scroll": false,
-          "logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo.png",
+          "logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo_2.png",
           "logo_max_width": 230,
           "logo_mobile_max_width": 150,
           "menu": "hoofd",
@@ -120,7 +120,7 @@
           "show_country_flag": true,
           "show_country_name": false,
           "transparent_header_text_color": "#ffffff",
-          "transparent_logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo_1.png",
+          "transparent_logo": "shopify://shop_images/Black_and_Beige_Beauty_and_Spa_Logo_3.png",
           "reduce_padding": false,
           "background_opacity": 100,
           "background_blur_radius": 0
