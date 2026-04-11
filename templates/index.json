@@ -177,6 +177,37 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_3Uqkx8": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "frontpage",
+        "products": [
+          "alice-1",
+          "emilia-swimsuit-ly",
+          "elizabeth",
+          "fiona",
+          "harriet-1"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "New for Her",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "media_with_text_y4HyyD": {
       "type": "media-with-text",
       "blocks": {
@@ -213,44 +244,13 @@
         "spacing": "medium"
       }
     },
-    "featured_collection_3Uqkx8": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "frontpage",
-        "products": [
-          "alice-1",
-          "emilia-swimsuit-ly",
-          "elizabeth",
-          "fiona",
-          "harriet-1"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "New for Her",
-        "content": "",
-        "link_url": "shopify://collections/all",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "rich_text_CJbyHA": {
       "type": "rich-text",
       "blocks": {
         "richtext_m7RYAk": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>WELCOME TO Julia & Sophia<br/>Charleston</strong></p><p>We’re celebrating our move to a bigger home with exclusive savings of up to </p><p><strong>70% off sitewide </strong></p><p>on our most-loved collections.</p><p>We’re truly grateful for your support as we step into this exciting new chapter. </p><p><strong>With love,</strong></p><p><strong>Julia & Sophie </strong></p><p><strong>Charleston</strong></p>"
+            "content": ""
           }
         }
       },
@@ -343,8 +343,8 @@
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
     "collection-list",
-    "media_with_text_y4HyyD",
     "featured_collection_3Uqkx8",
+    "media_with_text_y4HyyD",
     "rich_text_CJbyHA",
     "media-grid",
     "faq"
