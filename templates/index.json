@@ -137,6 +137,78 @@
         "heading_gradient": ""
       }
     },
+    "collection_list_xeHYnd": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_4jBDwq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/8_ad95beaf-cb85-41dd-a376-a732068d7677.png",
+            "subheading": "",
+            "title": "BAGS",
+            "url": "shopify://collections/leather-bags",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_RideQL": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/1_7ccc807e-dc81-4aaf-a249-68b1ea4a1f76.png",
+            "subheading": "",
+            "title": "Nightwear",
+            "url": "shopify://collections/elegant-nightwear",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_xqbx9X": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Ontwerpzondertitel-2024-06-17T234003.241_5a45dbfa-6d97-44c7-9e82-5c24cddef84a.png",
+            "subheading": "",
+            "title": "Summer Sets",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_4jBDwq",
+        "collection_RideQL",
+        "collection_xqbx9X"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://collections/leather-bags",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured_collection_3Uqkx8": {
       "type": "featured-collection",
       "settings": {
@@ -187,7 +259,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Buitenkant_store....webp",
+        "image": "shopify://shop_images/Winkel_binnenkant.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -293,6 +365,7 @@
   "order": [
     "slideshow_TJ8KBa",
     "collection-list",
+    "collection_list_xeHYnd",
     "featured_collection_3Uqkx8",
     "image-with-text-overlay",
     "rich_text_CJbyHA",
