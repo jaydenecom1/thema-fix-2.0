@@ -140,21 +140,6 @@
     "collection_list_xeHYnd": {
       "type": "collection-list",
       "blocks": {
-        "collection_4jBDwq": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/2_a4bddf3a-7f78-457b-a6d4-93ab2c7331d2.png",
-            "subheading": "",
-            "title": "BAGS",
-            "url": "shopify://collections/leather-bags",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_RideQL": {
           "type": "collection",
           "settings": {
@@ -163,6 +148,21 @@
             "subheading": "",
             "title": "Nightwear",
             "url": "shopify://collections/elegant-nightwear",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_4jBDwq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/2_a4bddf3a-7f78-457b-a6d4-93ab2c7331d2.png",
+            "subheading": "",
+            "title": "BAGS",
+            "url": "shopify://collections/leather-bags",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -187,8 +187,8 @@
         }
       },
       "block_order": [
-        "collection_4jBDwq",
         "collection_RideQL",
+        "collection_4jBDwq",
         "collection_xqbx9X"
       ],
       "name": "Collection list",
@@ -259,7 +259,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Buitenkant_store....webp",
+        "image": "shopify://shop_images/Winkel_binnenkant.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
