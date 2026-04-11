@@ -50,6 +50,46 @@
         "background_gradient": ""
       }
     },
+    "rich_text_dfGwb4": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AHPUx4": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_xjqTka": {
+          "type": "heading",
+          "settings": {
+            "text": "WELCOME TO Julia & Sophie Charleston",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_KGrhnL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We're celebrating our move to a bigger home with exclusive savings of up to <strong>70% off sitewide</strong> on our most-loved collections.</p><p>We're truly grateful for your support as we step into this exciting new chapter. <strong>With love,</strong></p><p><strong>Julia & Sophie Charleston</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AHPUx4",
+        "heading_xjqTka",
+        "richtext_KGrhnL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -364,6 +404,7 @@
   },
   "order": [
     "slideshow_TJ8KBa",
+    "rich_text_dfGwb4",
     "collection-list",
     "collection_list_xeHYnd",
     "featured_collection_3Uqkx8",
