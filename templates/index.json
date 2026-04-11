@@ -184,7 +184,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Buitenkant_store....webp",
-            "media_width": 35,
+            "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
