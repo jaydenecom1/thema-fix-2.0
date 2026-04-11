@@ -177,6 +177,42 @@
         "heading_gradient": ""
       }
     },
+    "media_with_text_y4HyyD": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_P6nc3P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Buitenkant_store....webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>WELCOME TO JULIA & SOPHIA CHARLESTON<br/><br/>We’re moving to a bigger space — and celebrating this exciting new chapter with you! </p><p>Enjoy up to <strong>70% off sitewide</strong> on our most-loved collections. Limited quantities and high demand — shop your favourites before they’re gone.</p><p><strong>Our Moving Sale is officially live.</strong> Same elegance, bigger home. </p><p>With love,<br/><br/>JULIA & SOPHIA CHARLESTON</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_P6nc3P"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "enable_parallax": true,
+        "spacing": "medium"
+      }
+    },
     "featured_collection_3Uqkx8": {
       "type": "featured-collection",
       "settings": {
@@ -206,33 +242,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Buitenkant_store....webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 10
       }
     },
     "rich_text_CJbyHA": {
@@ -334,8 +343,8 @@
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
     "collection-list",
+    "media_with_text_y4HyyD",
     "featured_collection_3Uqkx8",
-    "image-with-text-overlay",
     "rich_text_CJbyHA",
     "media-grid",
     "faq"
