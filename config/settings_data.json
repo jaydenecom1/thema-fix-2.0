@@ -240,7 +240,7 @@
           "links": {
             "type": "links",
             "settings": {
-              "menu": "",
+              "menu": "policy",
               "show_menu_title": true
             }
           },
