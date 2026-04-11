@@ -15,7 +15,7 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Zonder_titel_Presentatie.png",
+            "image": "shopify://shop_images/Store_foto...png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -222,7 +222,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p>Welcome to Julia & Sophie Charleston</p><p></p><p>We’re preparing for a move to a bigger location and celebrating this special moment with you. </p><p>Enjoy up to 70% off on some of our most loved styles — available for a limited time while stock lasts.</p><p>Our Moving Sale is now live. Same timeless style, just a new chapter ahead.</p><p>With love,<br/><br/>Julia & Sophie</p>",
+            "content": "<p>WELCOME TO JULIA & SOPHIE CHARLESTON<br/><br/>We’re moving to a bigger space — and celebrating this exciting new chapter with you! </p><p>Enjoy up to <strong>70% off sitewide</strong> on our most-loved collections. Limited quantities and high demand — shop your favourites before they’re gone.</p><p><strong>Our Moving Sale is officially live.</strong> Same elegance, bigger home. </p><p>With love,<br/><br/>JULIA & SOPHIE </p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -281,6 +281,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_VRHU8b": {
+          "type": "item",
+          "settings": {
+            "title": "Track order",
+            "content": "<p>Once your order is confirmed, you will receive an email with your order number. To track your order, simply visit our <a href=\"https://juliasophiecharleston.com/apps/parcelpanel\" title=\"https://juliasophiecharleston.com/apps/parcelpanel\"><em><strong>Order Tracking</strong></em></a> page and enter your order number or email address.<br/><br/></p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -306,11 +313,12 @@
           "type": "item",
           "settings": {
             "title": "Neede more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@lunarilane.com<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: <a href=\"mailto:info@juliasophiecharleston.com\" title=\"mailto:info@juliasophiecharleston.com\">info@juliasophiecharleston.com</a><br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
           }
         }
       },
       "block_order": [
+        "item_VRHU8b",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
