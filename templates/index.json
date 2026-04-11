@@ -222,7 +222,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p>WELCOME TO  </p><p>JULIA & SOPHIE CHARLESTON<br/><br/>We’re moving to a bigger space — and celebrating this exciting new chapter with you! </p><p>Enjoy up to <strong>70% off sitewide</strong> on our most-loved collections. Limited quantities and high demand — shop your favourites before they’re gone.</p><p><strong>Our Moving Sale is officially live.</strong> </p><p>Same elegance, bigger home. </p><p>With love,<br/><br/>Julia & Sophie</p>",
+            "content": "<p>WELCOME TO JULIA & SOPHIE CHARLESTON<br/><br/>We’re moving to a bigger space — and celebrating this exciting new chapter with you! </p><p>Enjoy up to <strong>70% off sitewide</strong> on our most-loved collections. Limited quantities and high demand — shop your favourites before they’re gone.</p><p><strong>Our Moving Sale is officially live.</strong> Same elegance, bigger home. </p><p>With love,<br/><br/>JULIA & SOPHIE </p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -281,6 +281,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_VRHU8b": {
+          "type": "item",
+          "settings": {
+            "title": "Track order",
+            "content": "<p>Once your order is confirmed, you will receive an email with your order number. To track your order, simply visit our <a href=\"https://truesilhouetteco.com/apps/parcelpanel\" title=\"https://truesilhouetteco.com/apps/parcelpanel\">Order Tracking</a> page and enter your order number or email address.<br/><br/></p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -311,6 +318,7 @@
         }
       },
       "block_order": [
+        "item_VRHU8b",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
