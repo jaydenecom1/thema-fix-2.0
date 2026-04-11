@@ -177,78 +177,6 @@
         "heading_gradient": ""
       }
     },
-    "collection_list_xeHYnd": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_RideQL": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/1_7ccc807e-dc81-4aaf-a249-68b1ea4a1f76.png",
-            "subheading": "",
-            "title": "Nightwear",
-            "url": "shopify://collections/elegant-nightwear",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_4jBDwq": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/2_a4bddf3a-7f78-457b-a6d4-93ab2c7331d2.png",
-            "subheading": "",
-            "title": "BAGS",
-            "url": "shopify://collections/leather-bags",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_xqbx9X": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/3_c8fbbb01-ffd2-401e-9685-a04ca4a03c3b.png",
-            "subheading": "",
-            "title": "Summer Sets",
-            "url": "shopify://collections/summersets-2-pieces",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_RideQL",
-        "collection_4jBDwq",
-        "collection_xqbx9X"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "shopify://collections/leather-bags",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured_collection_3Uqkx8": {
       "type": "featured-collection",
       "settings": {
@@ -406,7 +334,6 @@
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
     "collection-list",
-    "collection_list_xeHYnd",
     "featured_collection_3Uqkx8",
     "image-with-text-overlay",
     "rich_text_CJbyHA",
