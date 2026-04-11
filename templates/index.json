@@ -292,7 +292,7 @@
           "type": "item",
           "settings": {
             "title": "Free premium shipping",
-            "content": "<p>We ship all our orders within the VS with UPS. Do you order before 11 PM? Then your parcel will be sent the next day free of charge. So you will receive your order quickly and without extra costs!</p>"
+            "content": "<p>We ship all our orders within the VS with UPS. <br/><br/>Place your order before 11:00 AM and we’ll make sure it’s processed the same day.</p><p>Your order will be carefully prepared and shipped as quickly as possible.<br/><br/>Enjoy free shipping on all orders.</p>"
           }
         },
         "166442457738b23caf-1": {
