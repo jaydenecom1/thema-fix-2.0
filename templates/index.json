@@ -15,7 +15,7 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/laatste_store_gezichten.png",
+            "image": "shopify://shop_images/gezichten_in_de_store.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -164,7 +164,7 @@
         "image_P6nc3P": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Moving_sale_binnenkant_store.png",
+            "image": "shopify://shop_images/binnenkant_store_beste_versie.png",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center text-center",
