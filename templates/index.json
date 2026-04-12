@@ -194,19 +194,77 @@
         "spacing": "medium"
       }
     },
-    "rich_text_CJbyHA": {
-      "type": "rich-text",
+    "featured_collection_BDx6PE": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "footwear",
+        "products": [
+          "adi-elegant-strappy-heels",
+          "arden-leopard-strap-heels",
+          "avery-leopard-d-orsay-heels",
+          "marlena™-nude-low-heels",
+          "emery-studded-mary-janes",
+          "isabel-vintage-strap-heels"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "shopify://collections/footwear",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "impact_text_8gb36d": {
+      "type": "impact-text",
       "blocks": {
-        "richtext_m7RYAk": {
-          "type": "richtext",
+        "item_qk48V7": {
+          "type": "item",
           "settings": {
-            "content": ""
+            "title": "",
+            "subheading": "",
+            "content": "",
+            "button_text": "VIEW ALL",
+            "button_url": "shopify://collections/shoes-sandals",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "richtext_m7RYAk"
+        "item_qk48V7"
       ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "rich_text_iTYcrC": {
+      "type": "rich-text",
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -215,17 +273,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media-grid": {
-      "type": "media-grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
       }
     },
     "faq": {
@@ -303,8 +350,9 @@
     "featured_collection_3Uqkx8",
     "impact_text_8NdBGR",
     "media_with_text_y4HyyD",
-    "rich_text_CJbyHA",
-    "media-grid",
+    "featured_collection_BDx6PE",
+    "impact_text_8gb36d",
+    "rich_text_iTYcrC",
     "faq"
   ]
 }
