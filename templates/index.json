@@ -237,7 +237,7 @@
             "subheading": "",
             "content": "",
             "button_text": "VIEW ALL",
-            "button_url": "shopify://collections/shoes-sandals",
+            "button_url": "shopify://collections/footwear",
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
