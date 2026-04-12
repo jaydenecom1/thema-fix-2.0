@@ -99,14 +99,14 @@
           "luna-long-floral-print-dress-with-off-the-shoulder-sleeves",
           "aria-dress-with-short-puff-sleeves",
           "liza-romantic-lace-dress",
-          "quentin-sahara-draped-dress-xz",
-          "abigail-maxi-dress-with-print"
+          "eleanor-elegant-dress",
+          "quentin-sahara-draped-dress-xz"
         ],
-        "full_width": false,
+        "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
