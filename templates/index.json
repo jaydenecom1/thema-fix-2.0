@@ -95,19 +95,21 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "nora-1",
-          "peony-graceful-satin-dress",
-          "piper",
-          "robin"
+          "wendy-1",
+          "annabelle",
+          "bonnie-1",
+          "camille-1",
+          "catherine",
+          "clarissa-1"
         ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "New for Her",
+        "title": "",
         "content": "",
         "link_url": "shopify://collections/all",
         "link_text": "",
