@@ -40,7 +40,7 @@
     "text_font": "din_next_n4",
     "show_page_transition": true,
     "heading_apparition": "split_fade",
-    "show_secondary_image": false,
+    "show_secondary_image": true,
     "show_product_rating": false,
     "discount_mode": "saving",
     "product_color_display": "hide",
