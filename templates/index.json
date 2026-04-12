@@ -15,12 +15,12 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Julia_Sophie_charleston_foto_homepage.png",
+            "image": "shopify://shop_images/Vriendinnen_in_de_Charleston_boutique.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "MOVING SALE",
-            "title": "UP TO 70% OFF",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -71,7 +71,7 @@
         "richtext_KGrhnL": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>WELCOME TO JULIA & SOPHIE CHARLESTON</strong></p><p>To celebrate our move to a bigger location, we’re offering up to 70% off on some of our most loved pieces.</p><p>This exclusive <strong>Moving Sale</strong> is only available for a limited time — once items sell out, they won’t be restocked.</p><p>Don’t miss your chance to shop your favourites before they’re gone. </p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>FINAL RESTOCK – UP TO 70% OFF</strong></p>"
+            "content": "<p>We’re celebrating our <strong>Moving Sale</strong> with up to 70% off selected pieces.</p><p>Shop your favourites while they’re still available — limited time only.</p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>MOVING SALE – UP TO 70% OFF</strong></p>"
           }
         }
       },
@@ -95,23 +95,27 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "wendy-1",
-          "annabelle",
+          "emilia-swimsuit-ly",
+          "elizabeth",
+          "fiona",
+          "harriet-1",
           "bonnie-1",
-          "camille-1",
-          "catherine",
-          "clarissa-1"
+          "erykahhh",
+          "nora-1",
+          "peony-graceful-satin-dress",
+          "piper",
+          "robin"
         ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "1",
+        "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "",
+        "title": "New for Her",
         "content": "",
-        "link_url": "shopify://collections/frontpage",
+        "link_url": "shopify://collections/all",
         "link_text": "",
         "background": "",
         "background_gradient": "",
