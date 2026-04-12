@@ -15,12 +15,12 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Julia_Sophie_charleston_foto_homepage.png",
+            "image": "shopify://shop_images/laatste_store_gezichten.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "MOVING SALE",
-            "title": "UP TO 70% OFF",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -164,7 +164,7 @@
         "image_P6nc3P": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Buitenkant_store....webp",
+            "image": "shopify://shop_images/Moving_sale_binnenkant_store.png",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
