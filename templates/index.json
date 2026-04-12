@@ -15,12 +15,12 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vriendinnen_in_de_Charleston_boutique.png",
+            "image": "shopify://shop_images/Julia_Sophie_charleston_foto_homepage.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "",
-            "title": "",
+            "subheading": "MOVING SALE",
+            "title": "UP TO 70% OFF",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -71,7 +71,7 @@
         "richtext_KGrhnL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>We’re celebrating our <strong>Moving Sale</strong> with up to 70% off selected pieces.</p><p>Shop your favourites while they’re still available — limited time only.</p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>MOVING SALE – UP TO 70% OFF</strong></p>"
+            "content": "<p><strong>WELCOME TO JULIA & SOPHIE CHARLESTON</strong></p><p>To celebrate our move to a bigger location, we’re offering up to 70% off on some of our most loved pieces.</p><p>This exclusive <strong>Moving Sale</strong> is only available for a limited time — once items sell out, they won’t be restocked.</p><p>Don’t miss your chance to shop your favourites before they’re gone. </p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>FINAL RESTOCK – UP TO 70% OFF</strong></p>"
           }
         }
       },
@@ -95,27 +95,23 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "emilia-swimsuit-ly",
-          "elizabeth",
-          "fiona",
-          "harriet-1",
+          "wendy-1",
+          "annabelle",
           "bonnie-1",
-          "erykahhh",
-          "nora-1",
-          "peony-graceful-satin-dress",
-          "piper",
-          "robin"
+          "camille-1",
+          "catherine",
+          "clarissa-1"
         ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "New for Her",
+        "title": "",
         "content": "",
-        "link_url": "shopify://collections/all",
+        "link_url": "",
         "link_text": "",
         "background": "",
         "background_gradient": "",
@@ -124,6 +120,42 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "impact_text_8NdBGR": {
+      "type": "impact-text",
+      "blocks": {
+        "item_fmfF4f": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "content": "",
+            "button_text": "VIEW ALL",
+            "button_url": "shopify://collections/frontpage",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_fmfF4f"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "media_with_text_y4HyyD": {
@@ -269,6 +301,7 @@
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
     "featured_collection_3Uqkx8",
+    "impact_text_8NdBGR",
     "media_with_text_y4HyyD",
     "rich_text_CJbyHA",
     "media-grid",
