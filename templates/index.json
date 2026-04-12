@@ -21,7 +21,7 @@
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "MOVING SALE",
             "title": "UP TO 70% OFF",
-            "heading_tag": "h6",
+            "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -71,7 +71,7 @@
         "richtext_KGrhnL": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>WELCOME TO JULIA & SOPHIE CHARLESTON</strong></p><p>To celebrate our move to a bigger location, we’re offering up to 70% off on some of our most loved pieces.</p><p>This exclusive <strong>Moving Sale</strong> is only available for a limited time — once items sell out, they won’t be restocked.</p><p>Don’t miss your chance to shop your favourites before they’re gone. </p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>FINAL RESTOCK – UP TO 70% OFF</strong></p>"
+            "content": "<p>We’re celebrating our <strong>Moving Sale</strong> with up to 70% off selected pieces.</p><p>Shop your favourites while they’re still available — limited time only.</p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>MOVING SALE – UP TO 70% OFF</strong></p>"
           }
         }
       },
@@ -90,103 +90,21 @@
         "text_color": ""
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_NFrXEB": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/Zonder_titel_1500_x_1800_px_1.png",
-            "subheading": "",
-            "title": "Dresses",
-            "url": "shopify://collections/frontpage",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_8kjaBc": {
-          "type": "collection",
-          "settings": {
-            "collection": "footwear",
-            "image": "shopify://shop_images/Zonder_titel_1500_x_1800_px.png",
-            "subheading": "",
-            "title": "Footwear",
-            "url": "shopify://collections/footwear",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_xPtrd6": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "Elegant Nightwear",
-            "url": "shopify://collections/elegant-nightwear",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_AYhnCe": {
-          "type": "collection",
-          "settings": {
-            "collection": "tops-shirts",
-            "image": "shopify://shop_images/Ontwerp_zonder_titel_3.png",
-            "subheading": "",
-            "title": "Tops & Shirts",
-            "url": "shopify://collections/tops-shirts",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_NFrXEB",
-        "collection_8kjaBc",
-        "collection_xPtrd6",
-        "collection_AYhnCe"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "shopify://collections/summersets-2-pieces",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured_collection_3Uqkx8": {
       "type": "featured-collection",
       "settings": {
         "collection": "frontpage",
         "products": [
-          "alice-1",
           "emilia-swimsuit-ly",
           "elizabeth",
           "fiona",
-          "harriet-1"
+          "harriet-1",
+          "bonnie-1",
+          "erykahhh",
+          "nora-1",
+          "peony-graceful-satin-dress",
+          "piper",
+          "robin"
         ],
         "full_width": true,
         "stack_products": false,
@@ -350,7 +268,6 @@
   "order": [
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
-    "collection-list",
     "featured_collection_3Uqkx8",
     "media_with_text_y4HyyD",
     "rich_text_CJbyHA",
