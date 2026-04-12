@@ -102,7 +102,7 @@
           "quentin-sahara-draped-dress-xz",
           "abigail-maxi-dress-with-print"
         ],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
