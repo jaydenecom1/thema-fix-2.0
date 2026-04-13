@@ -44,6 +44,29 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_78BxHL": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_dGfdnH": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>EVERY GREAT STORY STARTS WITH A SIMPLE IDEA AND A HEART FULL OF PASSION. </p><p>When we created Julia & Sophie Charleston, we had one clear vision — to create a place where every woman feels confident, at ease, and effortlessly beautiful in her own way.</p><p>Thanks to your amazing support, that dream has grown far beyond what we ever imagined. </p><p>Julia & Sophie Charleston is moving. </p><p>We're excited to share that we're expanding into a larger, more refined space — and taking the next step toward becoming a worldwide store.<br/>The same timeless elegance, the same carefully designed pieces, and the same dedication to real women… now with more space to grow and reach new places.</p><p>To make room for this exciting transition, we're offering up to 70% off for a limited time.</p><p>BUY 2 → EXTRA 20% OFF<br/>BUY 3 → EXTRA 25% OFF<br/>BUY 4+ → EXTRA 30% OFF</p><p>Discounts are applied automatically at checkout. Items can be combined across different collections.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_dGfdnH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "banner": {
       "type": "collection-banner",
       "disabled": true,
@@ -84,6 +107,7 @@
   },
   "order": [
     "image_with_text_overlay_6dbyw9",
+    "rich_text_78BxHL",
     "banner",
     "main"
   ]
