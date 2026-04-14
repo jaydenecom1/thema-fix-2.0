@@ -221,38 +221,40 @@
         "testimonial_card_text_color": ""
       }
     },
-    "image_with_text_overlay_9GPHYi": {
-      "type": "image-with-text-overlay",
+    "media_with_text_NkFATK": {
+      "type": "media-with-text",
       "blocks": {
-        "heading_FCaFJc": {
-          "type": "heading",
+        "image_aBwiNY": {
+          "type": "image",
           "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_TraPNg": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
+            "image": "shopify://shop_images/image_3.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "BIG DREAMS START SMALL",
+            "content": "<p>What started as a small vision has grown into something truly special. At Julia & Sophie Charleston, our goal has always been clear — helping women feel confident, elegant, and completely themselves, every single day.</p><p>Because of your support, we're taking the next step. </p><p>We're moving to a bigger space and expanding even further — and we're celebrating this exciting moment with you.</p><p>Enjoy up to 70% OFF during our exclusive Moving Sale. Limited time only.</p><p>Thank you for being part of our journey.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_FCaFJc",
-        "richtext_TraPNg"
+        "image_aBwiNY"
       ],
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_3.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 10
+        "full_width": false,
+        "enable_parallax": true,
+        "spacing": "small"
       }
     },
     "faq_TaRiGA": {
@@ -366,7 +368,7 @@
   "order": [
     "main",
     "testimonials_WKwbQx",
-    "image_with_text_overlay_9GPHYi",
+    "media_with_text_NkFATK",
     "faq_TaRiGA",
     "featured_collection_fFfDyi",
     "1738002897803478fa"
