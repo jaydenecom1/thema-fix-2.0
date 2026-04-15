@@ -9861,23 +9861,27 @@ split-lines {
   overflow: hidden;
 }
 .trust-bullets {
-  margin: 18px 0 20px;
+  margin: 20px 0 24px;
 }
 
 .trust-item {
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 12px;
-  font-size: 16px;
-  line-height: 1.4;
-  color: #111;
+  gap: 12px;
+  margin-bottom: 14px;
+  font-size: 15.5px;
+  line-height: 1.5;
+  color: #222;
 }
 
 .trust-icon {
   display: inline-flex;
-  width: 22px;
+  width: 24px;
   justify-content: center;
-  font-size: 18px;
-  line-height: 1;
+  align-items: center;
+  color: #111;
+}
+
+.trust-item strong {
+  font-weight: 600;
 }
