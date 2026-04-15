@@ -9860,3 +9860,24 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+.trust-bullets {
+  margin: 18px 0 20px;
+}
+
+.trust-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #111;
+}
+
+.trust-icon {
+  display: inline-flex;
+  width: 22px;
+  justify-content: center;
+  font-size: 18px;
+  line-height: 1;
+}
