@@ -96,12 +96,9 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-          "amelia-elegant-dress-with-v-neck",
-          "luna-long-floral-print-dress-with-off-the-shoulder-sleeves",
-          "aria-dress-with-short-puff-sleeves",
-          "liza-romantic-lace-dress",
-          "quentin-sahara-draped-dress-xz",
-          "abigail-maxi-dress-with-print"
+          "brianna",
+          "melissa-comfortable-elegant-mid-length-dress",
+          "natalie-plant-flower-print-round-neck-midi-dress"
         ],
         "full_width": true,
         "stack_products": false,
@@ -110,7 +107,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Most Loved Items",
         "content": "",
         "link_url": "",
         "link_text": "",
