@@ -54,15 +54,47 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "message_9UkAxU": {
+            "type": "message",
+            "settings": {
+              "text": "Buy 2 items, get an extra 10% off — buy 3 for 15% off — buy 4 for 20% off",
+              "url": ""
+            }
+          },
+          "message_3qDp3D": {
+            "type": "message",
+            "settings": {
+              "text": "Fast & friendly customer support",
+              "url": ""
+            }
+          },
+          "message_Aa8fJb": {
+            "type": "message",
+            "settings": {
+              "text": "Free shipping across the United Kingdom",
+              "url": ""
+            }
+          },
+          "message_J6pkQJ": {
+            "type": "message",
+            "settings": {
+              "text": "30-day money-back guarantee",
+              "url": ""
+            }
+          },
           "message_iGVK6H": {
             "type": "message",
             "settings": {
-              "text": "Our Spring Sale is here — up to 70% off & free shipping on every order.",
+              "text": "Spring Sale  — Up to 70% off",
               "url": ""
             }
           }
         },
         "block_order": [
+          "message_9UkAxU",
+          "message_3qDp3D",
+          "message_Aa8fJb",
+          "message_J6pkQJ",
           "message_iGVK6H"
         ],
         "settings": {
