@@ -282,36 +282,36 @@
         "item_paFPYf": {
           "type": "item",
           "settings": {
-            "title": "Track order",
-            "content": "<p>Once your order is confirmed, you will receive an email with your order number. To track your order, simply visit our <a href=\"https://juliasophiecharleston.com/apps/parcelpanel \" title=\"https://juliasophiecharleston.com/apps/parcelpanel \"><em><strong>Order Tracking</strong></em></a> page and enter your order number or email address.<br/><br/></p>"
+            "title": "How long will it take to receive my order?",
+            "content": "<p>Delivery times may vary slightly depending on your location. Orders are typically processed and dispatched within 1–3 business days. Once shipped, delivery usually takes 5–9 business days.</p><p>Please note that during busy periods, or due to customs checks and local carrier delays, delivery may occasionally take a little longer.</p><p>As soon as your order has been shipped, you will receive a confirmation email with your tracking details, so you can follow your package every step of the way.</p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Free premium shipping",
-            "content": "<p>We ship all our orders within the VS with UPS. <br/><br/>Place your order before 11:00 AM and we’ll make sure it’s processed the same day.</p><p>Your order will be carefully prepared and shipped as quickly as possible.<br/><br/>Enjoy free shipping on all orders.</p>"
+            "title": "Do you offer free shipping?",
+            "content": "<p>Yes, we offer free premium shipping on every order. No additional shipping costs at checkout.</p><p>Every shipment includes full tracking, so you can follow your order every step of the way and shop with complete confidence.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Returns",
-            "content": "<p>Not quite satisfied? No worries! You can easily and quickly return your order within 30 days of receipt. We make sure the process goes smoothly, so you don't have to worry.</p>"
+            "title": "How many days do I have to return my order?",
+            "content": "<p>You may return your item within <strong>30 days of receiving your order</strong>.</p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Size",
-            "content": "<p>Our clothes fit exactly as indicated in the size chart. You will find the size chart with each product, so you can always choose the right size and be sure it fits perfectly.</p>"
+            "title": "Are your clothes eco-friendly?",
+            "content": "<p>We believe fashion should not only look good, but also be made with care.</p><p>Where possible, we work with suppliers who use more responsible materials and production methods. We are always looking for ways to improve our collections and make more conscious choices.</p><p>Choosing George & Grace London means choosing timeless style with a thoughtful approach.</p>"
           }
         },
         "item_i7Uw3z": {
           "type": "item",
           "settings": {
             "title": "Neede more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: <a href=\"mailto:info@juliasophiecharleston.com\" title=\"mailto:info@juliasophiecharleston.com\">info@juliasophiecharleston.com</a><br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>You can contact us by email at <strong>info@georgegracestore.com</strong> or by using the contact form on our website.</p><p>Our customer support team aims to respond within <strong>24 hours</strong>.<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
           }
         }
       },
