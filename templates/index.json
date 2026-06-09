@@ -15,7 +15,8 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Beste_versie_homepage_foto.jpg",
+            "image": "shopify://shop_images/Spring_sale_1.png",
+            "mobile_image": "shopify://shop_images/Spring_sale_1.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -164,7 +165,6 @@
         "image_P6nc3P": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/binnenkant_store_beste_versie.png",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center text-center",
