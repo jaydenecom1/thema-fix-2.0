@@ -63,7 +63,7 @@
         "heading_xjqTka": {
           "type": "heading",
           "settings": {
-            "text": "Welcome to Julia & Sophie Charleston",
+            "text": "Welcome to George & Grace London",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -72,7 +72,7 @@
         "richtext_KGrhnL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>To celebrate our move to a bigger location, we’re offering up to 70% off on some of our most loved pieces.</p><p>This exclusive <strong>Moving Sale</strong> is only available for a limited time — once items sell out, they won’t be restocked.</p><p>Don’t miss your chance to shop your favourites before they’re gone. </p><p>With love,<br/><br/>Julia & Sophie</p><p><strong>FINAL RESTOCK – UP TO 70% OFF</strong></p>"
+            "content": "<p>Spring is in full bloom at George & Grace London and this is your invitation to make it yours. </p><p>We're offering up to 70% off a beautiful final selection of spring pieces, lovingly chosen for women who appreciate elegance and ease. </p><p>Explore the collection below and discover your new favourites with George & Grace London. </p>"
           }
         }
       },
@@ -165,6 +165,7 @@
         "image_P6nc3P": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_9_jun_2026_12_45_44.png",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -172,7 +173,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p><strong>         WELCOME TO JULIA & SOPHIE                               CHARLESTON</strong></p><p>   We’re preparing for an exciting new    chapter as we move to a bigger location — and we’re celebrating this moment together with you. </p><p>To mark this special occasion, we’re offering up to 70% off on some of our most loved pieces. From timeless essentials to everyday favourites, this is your chance to shop the styles you love at exclusive prices.</p><p>Please note that quantities are limited and popular items may sell out quickly — once they’re gone, they won’t be restocked.</p><p>Our Moving Sale is now live. The same elegance and carefully curated style, just a new place to call home.</p><p>With love,<br/><br/>Julia & Sophie</p>",
+            "content": "<p><strong>Meet George & Grace</strong></p><p>George and Grace share a passion for fashion, timeless design and each other. After building their careers in the industry, they found each other along the way and turned a shared dream into George & Grace London, a brand trusted by countless happy customers for over 10 years.</p><p>Their mission is simple: beautiful, high-quality pieces and a shopping experience that feels truly special.</p><p>And this spring, they're making it easier than ever to find your new favourite piece. Our <strong>Spring Sale</strong> is here with <strong>up to 70% off</strong> on beautiful styles across the store. Because great fashion should never be out of reach.</p><p>Because here, you're not just a customer. You're part of the family.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
