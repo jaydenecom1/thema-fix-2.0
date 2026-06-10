@@ -282,12 +282,20 @@
               "title": "Need help?",
               "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: <br/><a href=\"mailto:info@georgegracestore.com\" title=\"mailto:info@georgegracestore.com\">info@georgegracestore.com</a><br/><br/>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
             }
+          },
+          "text_VRkJHx": {
+            "type": "text",
+            "settings": {
+              "title": "Legal Links",
+              "content": "<p><a href=\"/pages/contact\" title=\"Contact\">Contact</a></p><p><a href=\"/pages/privacy-policy\" title=\"Privacy Policy\">Privacy Policy</a></p><p><a href=\"/pages/shipping-and-delivery\" title=\"Shipping and Delivery\">Shipping and Delivery</a></p><p><a href=\"/pages/return-policy\" title=\"Return policy\">Return Policy</a></p><p><a href=\"/pages/terms-conditions\" title=\"Terms & Conditions\">Terms and Conditions</a></p><p><a href=\"/pages/payment-policy\" title=\"Payment Policy\">Payment Policy</a></p><p><a href=\"/pages/cookie-policy\" title=\"Cookie Policy\">Cookie Policy</a></p>"
+            }
           }
         },
         "block_order": [
           "links_DYbNDr",
           "links",
-          "text_U7XWWJ"
+          "text_U7XWWJ",
+          "text_VRkJHx"
         ],
         "settings": {
           "show_social_media": true,
@@ -296,7 +304,7 @@
           "show_country_flag": true,
           "show_country_name": false,
           "show_locale_selector": true,
-          "show_privacy_bar": true,
+          "show_privacy_bar": false,
           "privacy_bar_title": "Cookie policy",
           "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
         }
