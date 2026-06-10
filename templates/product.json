@@ -207,14 +207,15 @@
         "image_aBwiNY": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-06-08_at_14.08.50.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "BIG DREAMS START SMALL",
-            "content": "<p>What started as a small vision has grown into something truly special. At Julia & Sophie Charleston, our goal has always been clear — helping women feel confident, elegant, and completely themselves, every single day.</p><p>Because of your support, we're taking the next step. </p><p>We're moving to a bigger space and expanding even further — and we're celebrating this exciting moment with you.</p><p>Enjoy up to 70% OFF during our exclusive Moving Sale. Limited time only.</p><p>Thank you for being part of our journey.</p>",
+            "title": "Meet George & Grace ",
+            "content": "<p>At George & Grace London, everything starts with a shared love for fashion and family. From a young age, George and Grace were both drawn to style, creativity, and the beauty of timeless design.</p><p>After studying Fashion Design and Business at leading London institutions, they built their careers within the industry and found each other along the way. Together, they turned a shared dream into something truly their own.</p><p>More than 10 years ago, they founded George & Grace London and today, it has grown into a brand trusted by countless happy customers. Along the way, they also built a family, and it is their greatest hope that one day their children will carry this story forward.</p><p>Their mission remains what it has always been: to bring you beautiful, high-quality pieces and make every shopping experience feel special.</p><p>Because at George & Grace London, you're not just a customer, you're part of the family.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -243,35 +244,43 @@
           "type": "item",
           "settings": {
             "title": "Free premium shipping",
-            "content": "<p>We ship all our orders within the US with UPS. Do you order before 11 PM? Then your parcel will be sent the next day free of charge. So you will receive your order quickly and without extra costs!</p>"
-          }
-        },
-        "item_7UVMKz": {
-          "type": "item",
-          "settings": {
-            "title": "Returns",
-            "content": "<p>Not quite satisfied? No worries! You can easily and quickly return your order within 30 days of receipt. We make sure the process goes smoothly, so you don't have to worry.</p>"
+            "content": "<p>Yes, we offer free premium shipping on every order. No additional shipping costs at checkout.</p><p>Every shipment includes full tracking, so you can follow your order every step of the way and shop with complete confidence.</p>"
           }
         },
         "item_ji9gab": {
           "type": "item",
           "settings": {
-            "title": "Size",
-            "content": "<p>Our clothes fit exactly as indicated in the size chart. You will find the size chart with each product, so you can always choose the right size and be sure it fits perfectly.</p>"
+            "title": "How long wil it take to receive my order?",
+            "content": "<p>Delivery times may vary slightly depending on your location. Orders are typically processed and dispatched within 1–3 business days. Once shipped, delivery usually takes 5–9 business days.</p><p>Please note that during busy periods, or due to customs checks and local carrier delays, delivery may occasionally take a little longer.</p><p>As soon as your order has been shipped, you will receive a confirmation email with your tracking details, so you can follow your package every step of the way.</p>"
+          }
+        },
+        "item_7UVMKz": {
+          "type": "item",
+          "settings": {
+            "title": "How many days do I have to return my order",
+            "content": "<p>You may return your item within <strong>30 days of receiving your order</strong>.</p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
+          }
+        },
+        "item_M6688b": {
+          "type": "item",
+          "settings": {
+            "title": "Are your clothes eco-friendly?",
+            "content": "<p>We believe fashion should not only look good, but also be made with care.</p><p>Where possible, we work with suppliers who use more responsible materials and production methods. We are always looking for ways to improve our collections and make more conscious choices.</p><p>Choosing George & Grace London means choosing timeless style with a thoughtful approach.</p>"
           }
         },
         "item_B3Pgdw": {
           "type": "item",
           "settings": {
             "title": "Need more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@juliasophiecharleston.com<br/><br/>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>You can contact us by email at <a href=\"https://georgegracestore.com/pages/contact\" title=\"Contact\"><strong>info@georgegracestore.com</strong></a> or by using the contact form on our website.</p><p>Our customer support team aims to respond within <strong>24 hours</strong>.<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 15:00</p>"
           }
         }
       },
       "block_order": [
         "item_XDfKQt",
-        "item_7UVMKz",
         "item_ji9gab",
+        "item_7UVMKz",
+        "item_M6688b",
         "item_B3Pgdw"
       ],
       "settings": {
