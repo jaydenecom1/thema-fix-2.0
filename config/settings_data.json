@@ -964,5 +964,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".badge--on-sale {border-radius: 50px !important;}"
+    ]
   }
 }
