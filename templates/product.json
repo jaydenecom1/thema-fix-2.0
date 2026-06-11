@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_UVRMbp": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex;align-items:center;gap:8px;margin-bottom:6px;font-size:14px;font-weight:600;color:#111;\">\n  <span style=\"color:#111;font-size:16px;letter-spacing:1px;\">★★★★½</span>\n  <span>4.7/5 Rating – 3300+ Reviews</span>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -95,6 +101,7 @@
         }
       },
       "block_order": [
+        "liquid_UVRMbp",
         "title",
         "badges",
         "price",
