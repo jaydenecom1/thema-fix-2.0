@@ -152,8 +152,8 @@
         "heading_text_color": "",
         "heading_gradient": "",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#000000",
+        "button_text_color": "#ffffff"
       }
     },
     "media_with_text_y4HyyD": {
