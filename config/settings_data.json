@@ -42,7 +42,7 @@
     "heading_apparition": "split_fade",
     "show_secondary_image": true,
     "show_product_rating": false,
-    "discount_mode": "saving",
+    "discount_mode": "percentage",
     "product_color_display": "hide",
     "product_image_aspect_ratio": "tall_crop",
     "product_info_alignment": "start",
