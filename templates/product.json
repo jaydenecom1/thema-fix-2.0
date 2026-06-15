@@ -63,7 +63,7 @@
         "liquid_z6LpBE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display:flex;align-items:center;gap:8px;background:#fff;padding:10px 14px;margin:0 0 4px 0;font-size:14px;font-weight:500;color:#e00;border-radius:6px;\">\n  <span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#e00;flex-shrink:0;\"></span>\n  Low in stock - few pieces left!\n</div>"
+            "liquid": "<div style=\"display:flex;align-items:center;gap:8px;background:#fff;padding:4px 14px;margin:0 0 4px 0;font-size:14px;font-weight:500;color:#e00;border-radius:6px;\">\n  <span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#e00;flex-shrink:0;\"></span>\n  Low in stock - few pieces left!\n</div>"
           }
         },
         "buy_buttons": {
