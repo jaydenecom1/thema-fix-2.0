@@ -9901,4 +9901,8 @@ split-lines {
 .product-info {
   --product-info-block-spacing: 4px;
 }
+.product-info__block-item {
+  margin-block-start: 4px !important;
+  margin-block-end: 4px !important;
+}
 
