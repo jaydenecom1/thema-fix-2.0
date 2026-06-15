@@ -137,6 +137,31 @@
         "input_text_color": ""
       }
     },
+    "featured_collection_fFfDyi": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "summer-outfits",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "testimonials_WKwbQx": {
       "type": "testimonials",
       "blocks": {
@@ -329,31 +354,6 @@
         "accordion_text_color": ""
       }
     },
-    "featured_collection_fFfDyi": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "summer-outfits",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "1738002897803478fa": {
       "type": "apps",
       "settings": {
@@ -373,10 +373,10 @@
   },
   "order": [
     "main",
+    "featured_collection_fFfDyi",
     "testimonials_WKwbQx",
     "media_with_text_NkFATK",
     "faq_TaRiGA",
-    "featured_collection_fFfDyi",
     "1738002897803478fa"
   ]
 }
