@@ -9892,4 +9892,7 @@ split-lines {
 .price-list--lg .price-item--sale {
   font-size: 1.4em !important;
 }
+.product-info {
+  --product-info-block-spacing: var(--spacing-3);
+}
 
