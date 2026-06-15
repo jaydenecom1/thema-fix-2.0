@@ -9885,3 +9885,8 @@ split-lines {
 .trust-item strong {
   font-weight: 600;
 }
+.header__wrapper {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
