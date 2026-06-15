@@ -9905,8 +9905,13 @@ split-lines {
   margin-block-end: 0px !important;
   padding-block-end: 0px !important;
 }
-
+.section--template--30440335507795__media_with_text_NkFATK .media img {
+  object-fit: cover;
+  object-position: center;
+  max-height: 350px;
 }
+
+
 
 
 
