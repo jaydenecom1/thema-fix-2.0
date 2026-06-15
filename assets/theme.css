@@ -9889,4 +9889,7 @@ split-lines {
   padding-top: 10px !important;
   padding-bottom: 10px !important;
 }
+.price-list--lg .price-item--sale {
+  font-size: 1.4em !important;
+}
 
