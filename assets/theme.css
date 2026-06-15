@@ -9900,5 +9900,8 @@ split-lines {
 .product-info {
   --product-info-block-spacing: 4px;
 }
+.product-info__block-item[data-block-type="variant-picker"] {
+  margin-block-end: 4px !important;
+}
 
 
