@@ -9908,6 +9908,9 @@ split-lines {
   margin-block-start: 0px !important;
   padding-block-start: 0px !important;
 }
+.product-info__block-item[data-block-type="liquid"] {
+  margin-block-start: 0px !important;
+}
 
 
 
