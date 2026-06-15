@@ -9898,4 +9898,7 @@ split-lines {
 .product-info {
   --product-info-block-spacing: var(--spacing-1);
 }
+.product-info {
+  --product-info-block-spacing: 4px;
+}
 
