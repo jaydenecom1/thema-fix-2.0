@@ -9892,17 +9892,13 @@ split-lines {
 .price-list--lg .price-item--sale {
   font-size: 1.4em !important;
 }
-.product-info {
-  --product-info-block-spacing: var(--spacing-3);
-}
-.product-info {
-  --product-info-block-spacing: var(--spacing-1);
-}
-.product-info {
-  --product-info-block-spacing: 4px;
-}
 .product-info__block-item {
   margin-block-start: 4px !important;
   margin-block-end: 4px !important;
 }
+
+.product-info {
+  --product-info-block-spacing: 4px;
+}
+
 
