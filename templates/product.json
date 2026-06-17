@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_zzGhfg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .color-swatch,\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi [data-color-swatch],\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .product-color-swatch,\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .swatch {\n    display: none !important;\n  }\n</style>"
+          }
+        },
         "liquid_UVRMbp": {
           "type": "liquid",
           "settings": {
@@ -101,6 +107,7 @@
         }
       },
       "block_order": [
+        "liquid_zzGhfg",
         "liquid_UVRMbp",
         "title",
         "badges",
