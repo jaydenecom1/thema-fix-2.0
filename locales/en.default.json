@@ -428,6 +428,9 @@
       },
       "shipping_errors": {
         "empty_state": "Free Premium Shipping with Tracking"
+      },
+      "contact": {
+        "email_or_phone_label": "Email"
       }
     }
   },
