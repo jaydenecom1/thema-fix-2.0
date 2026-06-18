@@ -104,6 +104,14 @@
           "settings": {
             "collapse_content": false
           }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_AYVjFR": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
         }
       },
       "block_order": [
@@ -121,7 +129,8 @@
         "conversion_bear_trust_badges_widget_CRRFKh",
         "liquid_kJjCGY",
         "image_BirJDm",
-        "description"
+        "description",
+        "kiwi_size_chart_recommender_kiwi_sizing_AYVjFR"
       ],
       "custom_css": [
         "button.button.button--xl {border-radius: 0px;}"
