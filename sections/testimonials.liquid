@@ -96,6 +96,25 @@
   </div>
 {%- endif -%}
 
+<script>
+  document.querySelectorAll('.testimonial').forEach(function(card) {
+    var text = card.querySelector('.testimonial__text');
+    if (!text) return;
+    if (text.scrollHeight > text.clientHeight) {
+      var btn = document.createElement('button');
+      btn.className = 'read-more-btn';
+      btn.textContent = 'Lees meer';
+      btn.addEventListener('click', function() {
+        text.style.webkitLineClamp = 'unset';
+        text.style.overflow = 'visible';
+        btn.style.display = 'none';
+      });
+      card.appendChild(btn);
+    }
+  });
+</script>
+
+
 {% schema %}
 {
   "name": "Testimonials",

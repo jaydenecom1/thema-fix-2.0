@@ -89,7 +89,7 @@
         "liquid_kJjCGY": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"background:#fde8e8;border-radius:6px;padding:14px 16px;margin:12px 0;font-size:13px;color:#a0394a;text-align:center;line-height:1.5;\">\n  <strong style=\"color:#a0394a;\">SUMMER SALE:</strong> Due to high order volume, our stock is very limited. If you are still able to press the \"Add to Cart\" button above, there's still some stock left!\n</div>"
+            "liquid": "<div style=\"background:#fde8e8;border-radius:6px;padding:14px 16px;margin:12px 0;font-size:13px;color:#a0394a;text-align:center;line-height:1.5;\">\n  <strong style=\"color:#a0394a;\">SALE UPDATE:</strong> Due to high order volume, our stock is very limited. If you are still able to press the \"Add to Cart\" button above, there's still some stock left!\n</div>"
           }
         },
         "image_BirJDm": {
