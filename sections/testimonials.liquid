@@ -32,7 +32,24 @@
         --testimonial-list-items-per-row: 3;
         --testimonial-list-carousel-item-width: calc(100% / 3 - (var(--grid-gutter) / 3 * 2));
       }
-    }
+      /* Gelijke hoogte testimonial kaarten */
+.testimonial-list .testimonial {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.testimonial-list .v-stack {
+  flex: 1;
+}
+
+.testimonial .v-stack p {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
   </style>
 
   <div {% render 'section-properties' %}>
