@@ -15,8 +15,8 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_sale_1.png",
-            "mobile_image": "shopify://shop_images/Spring_sale_1.png",
+            "image": "shopify://shop_images/Summer_Sale_logo.png",
+            "mobile_image": "shopify://shop_images/Summer_Sale_logo.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
