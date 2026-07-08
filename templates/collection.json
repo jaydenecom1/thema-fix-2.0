@@ -36,7 +36,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Spring_sale_1_617e130a-2d45-46fe-bad2-29d206f3a614.png",
+        "image": "shopify://shop_images/Summer_Sale_logo.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
