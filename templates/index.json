@@ -287,7 +287,7 @@
           "type": "item",
           "settings": {
             "title": "How many days do I have to return my order?",
-            "content": "<p>You may return your item within <strong>30 days of receiving your order</strong>.</p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
+            "content": "<p>You may return your item within 14<strong> days of receiving your order</strong>.</p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
           }
         },
         "166442457738b23caf-2": {
