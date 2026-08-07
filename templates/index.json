@@ -116,6 +116,7 @@
         "image_P6nc3P": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/foto_kussen_groot_net.png",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -137,6 +138,42 @@
       },
       "block_order": [
         "image_P6nc3P"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "enable_parallax": true,
+        "spacing": "medium"
+      }
+    },
+    "media_with_text_9GCw3w": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_JaBmrM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/vrouw_met_slaapmasker.png",
+            "media_width": 40,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h3>Try LunariSleep for 100 Nights</h3><p>Finding the right pillow takes time. That’s why we give you 100 nights to experience your LunariSleep Pillow at home.</p><p>Adjust the foam, find the height and firmness that feels right for you, and give yourself time to discover your ideal comfort.</p><p>Still not the right fit? You can return it within the trial period according to our return policy.</p><p>Ik vind vooral de zin “Adjust the foam, find the height and firmness that feels right for you” sterk, omdat je hiermee de 100-nachten-proef direct koppelt aan wat jullie kussen onderscheidt.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_JaBmrM"
       ],
       "name": "Media with text",
       "settings": {
@@ -231,6 +268,7 @@
     "rich_text_dfGwb4",
     "impact_text_8NdBGR",
     "media_with_text_y4HyyD",
+    "media_with_text_9GCw3w",
     "rich_text_iTYcrC",
     "faq"
   ]
