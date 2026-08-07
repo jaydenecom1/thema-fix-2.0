@@ -149,6 +149,28 @@
     "media_with_text_9GCw3w": {
       "type": "media-with-text",
       "blocks": {
+        "image_BzTarj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/foto_met_4_logo.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p><em><strong>100-Night Trial Period</strong></em><br/><br/>The 100-night trial applies to the pillow only. Bedding and accessories may be returned within 30 days, provided they are unused and in their original packaging.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
         "image_JaBmrM": {
           "type": "image",
           "settings": {
@@ -173,6 +195,7 @@
         }
       },
       "block_order": [
+        "image_BzTarj",
         "image_JaBmrM"
       ],
       "name": "Media with text",
