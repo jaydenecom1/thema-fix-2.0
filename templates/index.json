@@ -91,35 +91,6 @@
         "text_color": ""
       }
     },
-    "featured_collection_3Uqkx8": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "frontpage",
-        "products": [
-          "brianna",
-          "melissa-comfortable-elegant-mid-length-dress",
-          "natalie-plant-flower-print-round-neck-midi-dress"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Most Loved Items",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "impact_text_8NdBGR": {
       "type": "impact-text",
       "name": "Impact text",
@@ -172,68 +143,6 @@
         "full_width": false,
         "enable_parallax": true,
         "spacing": "medium"
-      }
-    },
-    "featured_collection_BDx6PE": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "maxi-dresses",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Maxi Dresses",
-        "content": "<p>                    </p>",
-        "link_url": "shopify://collections/maxi-dresses",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "rgba(0,0,0,0)",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "impact_text_8gb36d": {
-      "type": "impact-text",
-      "blocks": {
-        "item_qk48V7": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "",
-            "button_text": "VIEW ALL",
-            "button_url": "shopify://collections/maxi-dresses",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_qk48V7"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "rich_text_iTYcrC": {
@@ -320,11 +229,8 @@
   "order": [
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
-    "featured_collection_3Uqkx8",
     "impact_text_8NdBGR",
     "media_with_text_y4HyyD",
-    "featured_collection_BDx6PE",
-    "impact_text_8gb36d",
     "rich_text_iTYcrC",
     "faq"
   ]
