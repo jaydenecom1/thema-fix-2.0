@@ -122,23 +122,6 @@
     },
     "impact_text_8NdBGR": {
       "type": "impact-text",
-      "blocks": {
-        "item_fmfF4f": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "",
-            "button_text": "VIEW ALL",
-            "button_url": "shopify://collections/midi-dresses",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_fmfF4f"
-      ],
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -169,7 +152,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p><strong>Meet George & Grace</strong></p><p>George and Grace share a passion for fashion, timeless design and each other. After building their careers in the industry, they found each other along the way and turned a shared dream into George & Grace London, a brand trusted by countless happy customers for over 10 years.</p><p>Their mission is simple: beautiful, high-quality pieces and a shopping experience that feels truly special.</p><p>And this summer, they're making it easier than ever to find your new favourite piece. Our <strong>Summer Sale</strong> is here with <strong>up to 70% off</strong> on beautiful styles across the store. Because great fashion should never be out of reach.</p><p>Because here, you're not just a customer. You're part of the family.</p>",
+            "content": "<h3>Welcome to LunariSleep</h3><p>Better sleep starts with better comfort.</p><p>At LunariSleep, we believe the little things can make a big difference to how you unwind at the end of the day. That’s why we focus on comfortable, thoughtfully designed sleep essentials that help make your bedroom feel calmer and your nights more enjoyable.</p><p>Our adjustable pillow is designed around one simple idea: your pillow should adapt to you. By adding or removing foam, you can easily adjust the height and firmness until it feels right for the way you like to sleep.</p><p>From pillows and pillowcases to sleep masks and other carefully selected essentials, LunariSleep is all about creating a more comfortable sleep experience, without making things complicated.</p><p>Because when it comes to sleep, comfort should feel personal.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
