@@ -53,6 +53,7 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "disabled": true,
         "settings": {
           "enable_sticky": false,
           "text_size": "text-xs",
@@ -93,6 +94,7 @@
         "block_order": [
           "mega_menu_zrY7cC"
         ],
+        "disabled": true,
         "settings": {
           "enable_sticky": true,
           "hide_on_scroll": false,
@@ -117,6 +119,7 @@
       },
       "cart-drawer": {
         "type": "cart-drawer",
+        "disabled": true,
         "settings": {
           "show_cart_note": false,
           "show_shipping_text": false,
@@ -129,6 +132,7 @@
       },
       "search-drawer": {
         "type": "search-drawer",
+        "disabled": true,
         "settings": {
           "full_width": true,
           "show_article_category": true,
@@ -203,6 +207,7 @@
           "discount",
           "payment"
         ],
+        "disabled": true,
         "settings": {
           "show_section": true,
           "full_width": true,
@@ -252,6 +257,7 @@
           "text_U7XWWJ",
           "text_VRkJHx"
         ],
+        "disabled": true,
         "settings": {
           "show_social_media": true,
           "show_payment_icons": true,
@@ -266,6 +272,7 @@
       },
       "newsletter-popup": {
         "type": "newsletter-popup",
+        "disabled": true,
         "settings": {
           "enable": false,
           "apparition_delay": 5,

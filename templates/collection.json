@@ -9,64 +9,6 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_6dbyw9": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_wVp3PA": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_86eMaD": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_wVp3PA",
-        "richtext_86eMaD"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/vrouw_op_bed_engels.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "rich_text_78BxHL": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_dGfdnH": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Find Your Perfect Pillow</strong></p><p>Better sleep starts with the right support.</p><p>Our adjustable sleep pillow is designed to adapt to you, not the other way around. By simply adding or removing filling, you can adjust the height and feel until it suits your preferred sleeping position and comfort.</p><p>Whether you prefer a lower, softer pillow or a fuller, more supportive feel, you’re in control.</p><p>Made for everyday comfort and designed to help you create a sleep setup that feels just right, night after night.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_dGfdnH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "banner": {
       "type": "collection-banner",
       "disabled": true,
@@ -106,8 +48,6 @@
     }
   },
   "order": [
-    "image_with_text_overlay_6dbyw9",
-    "rich_text_78BxHL",
     "banner",
     "main"
   ]
