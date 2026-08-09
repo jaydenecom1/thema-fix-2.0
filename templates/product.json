@@ -82,10 +82,6 @@
             "payment_button_text_color": ""
           }
         },
-        "conversion_bear_trust_badges_widget_CRRFKh": {
-          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {}
-        },
         "liquid_kJjCGY": {
           "type": "liquid",
           "settings": {
@@ -104,14 +100,6 @@
           "settings": {
             "collapse_content": false
           }
-        },
-        "kiwi_size_chart_recommender_kiwi_sizing_AYVjFR": {
-          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
-          "settings": {
-            "fallbackToBlockPosition": false,
-            "waitForElementSelector": "",
-            "waitForElementDelay": 5
-          }
         }
       },
       "block_order": [
@@ -126,11 +114,9 @@
         "payment_terms",
         "liquid_z6LpBE",
         "buy_buttons",
-        "conversion_bear_trust_badges_widget_CRRFKh",
         "liquid_kJjCGY",
         "image_BirJDm",
-        "description",
-        "kiwi_size_chart_recommender_kiwi_sizing_AYVjFR"
+        "description"
       ],
       "custom_css": [
         "button.button.button--xl {border-radius: 0px;}"
@@ -157,7 +143,11 @@
       "type": "featured-collection",
       "settings": {
         "collection": "summer-outfits",
-        "products": [],
+        "products": [
+          "lunari-adjustable-pillow",
+          "sleepmask",
+          "silk-pillowcase"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -165,7 +155,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Buy More, Save More. Up to 20% Off",
+        "title": "Buy More, Save More. Up to 40% Off",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -181,10 +171,20 @@
     "testimonials_WKwbQx": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_WbicT6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
         "testimonial_8Cf8jf": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -196,7 +196,6 @@
         "testimonial_atKPTr": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -208,7 +207,6 @@
         "testimonial_GwrVdP": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -220,7 +218,6 @@
         "testimonial_f6ALiy": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -232,7 +229,6 @@
         "testimonial_dyE34T": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -243,6 +239,7 @@
         }
       },
       "block_order": [
+        "testimonial_WbicT6",
         "testimonial_8Cf8jf",
         "testimonial_atKPTr",
         "testimonial_GwrVdP",
@@ -268,33 +265,6 @@
     },
     "media_with_text_NkFATK": {
       "type": "media-with-text",
-      "blocks": {
-        "image_aBwiNY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2026-06-08_at_14.08.50.jpg",
-            "media_width": 30,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Meet George & Grace ",
-            "content": "<p>At George & Grace London, our story began with a shared love for timeless fashion, family, and everyday elegance.</p><p>Founded over 10 years ago by George and Grace, our boutique has grown into a brand trusted by countless happy customers. Our mission is simple: to offer beautiful, high-quality pieces that make you feel confident, comfortable, and special.</p><p>To celebrate the season, our limited-time Summer Sale is now live with up to 70% off selected styles. The offer ends this week, so now is the perfect time to discover your new favourites.</p><p>Because at George & Grace London, you’re not just a customer, you’re part of the family.</p><p><a href=\"/pages/about-us\" title=\"About Us\">Discover More About George & Grace</a></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_aBwiNY"
-      ],
       "name": "Media with text",
       "settings": {
         "full_width": false,
