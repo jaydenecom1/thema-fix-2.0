@@ -114,11 +114,12 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products": [
           "lunari-adjustable-pillow",
           "silk-pillowcase",
-          "sleepmask"
+          "sleepmask",
+          "lunarisleepset"
         ],
         "full_width": false,
         "stack_products": true,
