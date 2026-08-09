@@ -36,7 +36,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Summer_Sale_logo.png",
+        "image": "shopify://shop_images/vrouw_op_bed_engels.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -50,7 +50,7 @@
         "richtext_dGfdnH": {
           "type": "richtext",
           "settings": {
-            "content": "<p>At George & Grace London, </p><p>We bring timeless style, everyday comfort, and effortless elegance together in carefully selected pieces for women and men. </p><p>To celebrate the new season, our Summer Sale is now live, enjoy up to 70% off for a limited time.</p><p><strong>BUY 2 → EXTRA 10% OFF<br/>BUY 3 → EXTRA 15% OFF<br/>BUY 4+ → EXTRA 20% OFF</strong></p><p>Discounts are applied automatically at checkout and can be combined across different collections.</p>"
+            "content": "<p><strong>Find Your Perfect Pillow</strong></p><p>Better sleep starts with the right support.</p><p>Our adjustable sleep pillow is designed to adapt to you, not the other way around. By simply adding or removing filling, you can adjust the height and feel until it suits your preferred sleeping position and comfort.</p><p>Whether you prefer a lower, softer pillow or a fuller, more supportive feel, you’re in control.</p><p>Made for everyday comfort and designed to help you create a sleep setup that feels just right, night after night.</p>"
           }
         }
       },
