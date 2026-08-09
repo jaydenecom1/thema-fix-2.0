@@ -51,36 +51,6 @@
         "background_gradient": ""
       }
     },
-    "featured_collection_3LnYcb": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "lunari-adjustable-pillow",
-          "silk-pillowcase",
-          "sleepmask"
-        ],
-        "full_width": false,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 3,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Our Featured Products",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "rich_text_dfGwb4": {
       "type": "rich-text",
       "blocks": {
@@ -102,7 +72,7 @@
         "richtext_KGrhnL": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>Sleep should feel personal. That’s why LunariSleep creates comfortable, adjustable sleep essentials designed to fit the way you like to sleep.<br/><br/></p>"
+            "content": "<p><br/>Sleep should feel personal. That’s why LunariSleep creates comfortable, adjustable sleep essentials designed to fit the way you like to sleep.<br/>Better sleep starts with better comfort.</p><p>At LunariSleep, we believe the little things can make a big difference to how you unwind at the end of the day. That’s why we focus on comfortable, thoughtfully designed sleep essentials that help make your bedroom feel calmer and your nights more enjoyable.</p><p>Our adjustable pillow is designed around one simple idea: your pillow should adapt to you. By adding or removing foam, you can easily adjust the height and firmness until it feels right for the way you like to sleep.</p><p>From pillows and pillowcases to sleep masks and other carefully selected essentials, LunariSleep is all about creating a more comfortable sleep experience, without making things complicated.</p><p>Because when it comes to sleep, comfort should feel personal.<br/></p>"
           }
         }
       },
@@ -140,6 +110,36 @@
         "button_text_color": "#ffffff"
       }
     },
+    "featured_collection_3LnYcb": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "lunari-adjustable-pillow",
+          "silk-pillowcase",
+          "sleepmask"
+        ],
+        "full_width": false,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 3,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Our Featured Products",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "media_with_text_y4HyyD": {
       "type": "media-with-text",
       "blocks": {
@@ -154,7 +154,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h3></h3><p>Better sleep starts with better comfort.</p><p>At LunariSleep, we believe the little things can make a big difference to how you unwind at the end of the day. That’s why we focus on comfortable, thoughtfully designed sleep essentials that help make your bedroom feel calmer and your nights more enjoyable.</p><p>Our adjustable pillow is designed around one simple idea: your pillow should adapt to you. By adding or removing foam, you can easily adjust the height and firmness until it feels right for the way you like to sleep.</p><p>From pillows and pillowcases to sleep masks and other carefully selected essentials, LunariSleep is all about creating a more comfortable sleep experience, without making things complicated.</p><p>Because when it comes to sleep, comfort should feel personal.</p>",
+            "content": "<h3></h3><p></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
