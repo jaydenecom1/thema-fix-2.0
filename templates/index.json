@@ -9,36 +9,6 @@
  */
 {
   "sections": {
-    "featured_collection_3LnYcb": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "lunari-adjustable-pillow",
-          "silk-pillowcase",
-          "sleepmask"
-        ],
-        "full_width": false,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 3,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Our Featured Products",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "slideshow_TJ8KBa": {
       "type": "slideshow",
       "blocks": {
@@ -79,6 +49,36 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "featured_collection_3LnYcb": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "lunari-adjustable-pillow",
+          "silk-pillowcase",
+          "sleepmask"
+        ],
+        "full_width": false,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 3,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Our Featured Products",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "rich_text_dfGwb4": {
@@ -317,10 +317,10 @@
     }
   },
   "order": [
-    "featured_collection_3LnYcb",
     "slideshow_TJ8KBa",
     "rich_text_dfGwb4",
     "impact_text_8NdBGR",
+    "featured_collection_3LnYcb",
     "media_with_text_y4HyyD",
     "media_with_text_9GCw3w",
     "rich_text_iTYcrC",
