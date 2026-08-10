@@ -100,6 +100,10 @@
           "settings": {
             "collapse_content": false
           }
+        },
+        "fether_frequently_bought_widget_block_UxkbBc": {
+          "type": "shopify://apps/fether-frequently-bought/blocks/widget-block/f96a0d1a-35b8-40ef-ad54-1cb7fb011e11",
+          "settings": {}
         }
       },
       "block_order": [
@@ -116,7 +120,8 @@
         "buy_buttons",
         "liquid_kJjCGY",
         "image_BirJDm",
-        "description"
+        "description",
+        "fether_frequently_bought_widget_block_UxkbBc"
       ],
       "custom_css": [
         "button.button.button--xl {border-radius: 0px;}"
