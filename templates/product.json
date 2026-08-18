@@ -283,7 +283,7 @@
         "item_XDfKQt": {
           "type": "item",
           "settings": {
-            "title": "Free premium shipping",
+            "title": "Do you offer free shipping?",
             "content": "<p>Yes, we offer free premium shipping on every order. No additional shipping costs at checkout.</p><p>Every shipment includes full tracking, so you can follow your order every step of the way and shop with complete confidence.</p>"
           }
         },
@@ -291,28 +291,28 @@
           "type": "item",
           "settings": {
             "title": "How long wil it take to receive my order?",
-            "content": "<p>Delivery times may vary slightly depending on your location. Orders are typically processed and dispatched within 1–3 business days. Once shipped, delivery usually takes 8–14 business days.</p><p>Please note that during busy periods, or due to customs checks and local carrier delays, delivery may occasionally take a little longer.</p><p>As soon as your order has been shipped, you will receive a confirmation email with your tracking details, so you can follow your package every step of the way.</p>"
+            "content": "<p>Delivery times may vary slightly depending on your location. Orders are typically processed and dispatched within 1–3 business days. Once shipped, delivery usually takes 5–12 business days.</p><p>Please note that during busy periods, or due to customs checks and local carrier delays, delivery may occasionally take a little longer.</p><p>As soon as your order has been shipped, you will receive a confirmation email with your tracking details, so you can follow your package every step of the way.</p>"
           }
         },
         "item_7UVMKz": {
           "type": "item",
           "settings": {
-            "title": "How many days do I have to return my order",
-            "content": "<p>You may return your item within <strong>30 days of receiving your order</strong>.</p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
+            "title": "Can I return my order",
+            "content": "<p>You may return your item within 30 days of receiving your order.</p><p>Only the sleep pillow comes with a 100-night trial. </p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
           }
         },
         "item_M6688b": {
           "type": "item",
           "settings": {
-            "title": "Are your clothes eco-friendly?",
-            "content": "<p>We believe fashion should not only look good, but also be made with care.</p><p>Where possible, we work with suppliers who use more responsible materials and production methods. We are always looking for ways to improve our collections and make more conscious choices.</p><p>Choosing George & Grace London means choosing timeless style with a thoughtful approach.</p>"
+            "title": "Are your products eco-friendly?",
+            "content": "<p>You may return your item within 30 days of receiving your order.</p><p>Only the sleep pillow comes with a 100-night trial. </p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
           }
         },
         "item_B3Pgdw": {
           "type": "item",
           "settings": {
             "title": "Need more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>You can contact us by email at <a href=\"https://georgegracestore.com/pages/contact\" title=\"Contact\"><strong>info@georgegracestore.com</strong></a> or by using the contact form on our website.</p><p>Our customer support team aims to respond within <strong>24 hours</strong>.<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 15:00</p>"
+            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>You can contact us by email at <a href=\"/pages/contact\" title=\"Contact\"><strong>info@sorevanasleep.com</strong></a> or by using the contact form on our website.</p><p>Our customer support team aims to respond within <strong>24 hours</strong>.<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 15:00</p>"
           }
         }
       },
@@ -329,7 +329,7 @@
         "title": "Frequently Asked Questions",
         "content": "<p>We're here to answer all your questions!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our shop is open Mon / Fri 09:00 - 17:00 & Sat / Sun 10:00 - 15:00",
+        "support_hours": "Mon - Fri 09:00 - 17:00  Sat - Sun 10:00 - 15:00",
         "answer_time": "Response within 24 hours",
         "button_text": "",
         "button_url": "",
@@ -341,7 +341,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#faf2e6",
         "accordion_text_color": ""
       }
     },
