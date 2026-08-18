@@ -268,7 +268,7 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How many days do I have to return my order?",
+            "title": "Can I return my order",
             "content": "<p>You may return your item within 30 days of receiving your order.</p><p>Only the sleep pillow comes with a 100-night trial. </p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p>"
           }
         },
@@ -276,7 +276,7 @@
           "type": "item",
           "settings": {
             "title": "Are your products eco-friendly?",
-            "content": "<p>We believe our products should not only look good, but also be made with care.</p><p>Where possible, we work with suppliers who use more responsible materials and production methods. We are always looking for ways to improve our collections and make more conscious choices.</p><p></p>"
+            "content": "<p>You may return your item within 30 days of receiving your order.</p><p>Only the sleep pillow comes with a 100-night trial. </p><p>To be eligible for a return, the item must be unused, unwashed, and in its original condition, with all tags still attached.</p><p>For more information about returns, please visit our full Return Policy.</p><p></p>"
           }
         },
         "item_i7Uw3z": {
@@ -305,7 +305,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#FFFFFF",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
