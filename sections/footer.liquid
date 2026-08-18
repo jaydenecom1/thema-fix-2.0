@@ -1,30 +1,32 @@
-<div class="custom-footer" style="background-color: #FAF2E6; padding: 40px 20px;">
-  <div class="page-width" style="max-width: 1200px; margin: 0 auto;">
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; align-items: start;">
+<div class="custom-footer-premium">
+  <div class="page-width custom-footer-premium__inner">
+    <div class="custom-footer-premium__grid">
 
-      <div>
+      <div class="custom-footer-premium__column custom-footer-premium__brand">
         {%- if section.settings.logo != blank -%}
           <img
-            src="{{ section.settings.logo | image_url: width: 220 }}"
+            src="{{ section.settings.logo | image_url: width: 320 }}"
             alt="{{ shop.name }}"
-            style="max-width: 180px; height: auto; margin-bottom: 15px;"
+            class="custom-footer-premium__logo"
           >
         {%- else -%}
-          <h3 style="margin: 0;">{{ shop.name }}</h3>
+          <h3 class="custom-footer-premium__shop-name">{{ shop.name }}</h3>
         {%- endif -%}
       </div>
 
-      <div>
-        <h4 style="margin-top: 0; margin-bottom: 12px;">Customer Support</h4>
-        <p style="margin: 0; line-height: 1.6;">
+      <div class="custom-footer-premium__column">
+        <h4 class="custom-footer-premium__heading">Customer Support</h4>
+        <div class="custom-footer-premium__text rte">
           {{ section.settings.support_text }}
-        </p>
+        </div>
       </div>
 
-      <div>
-        <h4 style="margin-top: 0; margin-bottom: 12px;">Helpful links</h4>
-        <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
-          <li><a href="{{ section.settings.faq_link }}">FAQ</a></li>
+      <div class="custom-footer-premium__column">
+        <h4 class="custom-footer-premium__heading">Information</h4>
+        <ul class="custom-footer-premium__links" role="list">
+          {%- if section.settings.faq_link != blank -%}
+            <li><a href="{{ section.settings.faq_link }}">FAQ</a></li>
+          {%- endif -%}
           <li><a href="{{ routes.root_url }}policies/privacy-policy">Privacy Policy</a></li>
           <li><a href="{{ routes.root_url }}policies/refund-policy">Refund Policy</a></li>
           <li><a href="{{ routes.root_url }}policies/terms-of-service">Terms of Service</a></li>
@@ -32,35 +34,166 @@
         </ul>
       </div>
 
-      <div>
-        <h4 style="margin-top: 0; margin-bottom: 12px;">Openingstijden</h4>
-        <p style="margin: 0; line-height: 1.8;">
-          {{ section.settings.opening_hours }}
-        </p>
+      <div class="custom-footer-premium__column">
+        <h4 class="custom-footer-premium__heading">Openingstijden</h4>
+        <div class="custom-footer-premium__text rte">
+          {{ section.settings.opening_hours | newline_to_br }}
+        </div>
       </div>
 
     </div>
 
-    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(0,0,0,0.1); text-align: center;">
-      <p style="margin: 0;">&copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.</p>
+    <div class="custom-footer-premium__bottom">
+      <p class="custom-footer-premium__copyright">
+        &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.
+      </p>
     </div>
   </div>
 </div>
 
+<style>
+  .custom-footer-premium {
+    background-color: #FAF2E6;
+    color: #1f1f1f;
+    padding: 72px 24px 28px;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .custom-footer-premium__inner {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+
+  .custom-footer-premium__grid {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1fr 1fr;
+    gap: 48px;
+    align-items: start;
+  }
+
+  .custom-footer-premium__column {
+    min-width: 0;
+  }
+
+  .custom-footer-premium__brand {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .custom-footer-premium__logo {
+    max-width: 180px;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .custom-footer-premium__shop-name {
+    margin: 0;
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .custom-footer-premium__heading {
+    margin: 0 0 18px;
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #1f1f1f;
+  }
+
+  .custom-footer-premium__text,
+  .custom-footer-premium__text p,
+  .custom-footer-premium__links a,
+  .custom-footer-premium__copyright {
+    font-size: 14px;
+    line-height: 1.9;
+    font-weight: 400;
+    color: #3e3a36;
+    text-decoration: none;
+  }
+
+  .custom-footer-premium__text p {
+    margin: 0;
+  }
+
+  .custom-footer-premium__links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .custom-footer-premium__links li {
+    margin: 0 0 8px;
+  }
+
+  .custom-footer-premium__links a:hover {
+    opacity: 0.7;
+  }
+
+  .custom-footer-premium__bottom {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(31, 31, 31, 0.10);
+  }
+
+  .custom-footer-premium__copyright {
+    margin: 0;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 990px) {
+    .custom-footer-premium {
+      padding: 56px 20px 24px;
+    }
+
+    .custom-footer-premium__grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 36px 28px;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    .custom-footer-premium {
+      padding: 48px 16px 22px;
+    }
+
+    .custom-footer-premium__grid {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+
+    .custom-footer-premium__logo {
+      max-width: 150px;
+    }
+
+    .custom-footer-premium__bottom {
+      margin-top: 32px;
+    }
+
+    .custom-footer-premium__copyright {
+      text-align: left;
+    }
+  }
+</style>
+
 {% schema %}
 {
-  "name": "Custom footer",
+  "name": "Premium footer",
   "settings": [
     {
       "type": "image_picker",
       "id": "logo",
-      "label": "Logo"
+      "label": "Logo afbeelding"
     },
     {
-      "type": "textarea",
+      "type": "richtext",
       "id": "support_text",
       "label": "Customer Support tekst",
-      "default": "Need help with your order? Our customer support team is here to assist you."
+      "default": "<p>Need help with your order or have a question about delivery? Our customer support team is here to help you.</p>"
     },
     {
       "type": "url",
@@ -71,13 +204,13 @@
       "type": "textarea",
       "id": "opening_hours",
       "label": "Openingstijden",
-      "default": "Monday - Friday: 9:00 - 17:00"
+      "default": "Monday - Friday: 9:00 - 17:00\nSaturday: Closed\nSunday: Closed"
     }
   ],
   "blocks": [],
   "presets": [
     {
-      "name": "Custom footer"
+      "name": "Premium footer"
     }
   ]
 }
