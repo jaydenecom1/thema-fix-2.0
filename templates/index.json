@@ -315,6 +315,11 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "footer_hxV7gm": {
+      "type": "footer",
+      "name": "Footer",
+      "settings": {}
     }
   },
   "order": [
@@ -325,6 +330,7 @@
     "media_with_text_y4HyyD",
     "media_with_text_9GCw3w",
     "rich_text_iTYcrC",
-    "faq"
+    "faq",
+    "footer_hxV7gm"
   ]
 }
