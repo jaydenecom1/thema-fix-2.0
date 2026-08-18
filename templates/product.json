@@ -15,13 +15,15 @@
         "liquid_zzGhfg": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .color-swatch,\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi [data-color-swatch],\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .product-color-swatch,\n  #shopify-section-template--30440335507795__featured_collection_fFfDyi .swatch {\n    display: none !important;\n  }\n</style>"
+            "liquid": "{% render 'product-custom-styles' %}"
+
           }
         },
         "liquid_UVRMbp": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display:flex;align-items:center;gap:8px;margin-bottom:6px;font-size:14px;font-weight:600;color:#111;\">\n  <span style=\"color:#111;font-size:16px;letter-spacing:1px;\">\n    ★★★★\n    <span style=\"display:inline-block;position:relative;color:#ccc;\">\n      ★\n      <span style=\"position:absolute;left:0;top:0;overflow:hidden;width:50%;color:#111;\">★</span>\n    </span>\n  </span>\n  <span>4.7/5 Rating – 3300+ Reviews</span>\n</div>"
+            "liquid": "{% render 'product-custom-styles' %}"
+
           }
         },
         "title": {
