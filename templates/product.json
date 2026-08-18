@@ -9,17 +9,6 @@
  */
 {
   "sections": {
-    "footer_geBQk8": {
-      "type": "footer",
-      "name": "Luxury footer",
-      "settings": {
-        "logo": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo_500_x_200_px_4.png",
-        "support_text": "<p>Do you have any questions about our services or products? Feel free to contact us through our contact page.<br/>Our customer support is available to assist you anytime!</p><p></p><p><strong>info@sorevanasleep.com</strong></p>",
-        "information_menu": "",
-        "policies_menu": "",
-        "opening_hours": "Monday - Friday: 9:00 - 17.00\nSaturday: 10.00 - 14.00\nSunday: 10.00 - 14.00"
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -371,15 +360,26 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "footer_geBQk8": {
+      "type": "footer",
+      "name": "Luxury footer",
+      "settings": {
+        "logo": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo_500_x_200_px_4.png",
+        "support_text": "<p>Do you have any questions about our services or products? Feel free to contact us through our contact page.<br/>Our customer support is available to assist you anytime!</p><p></p><p><strong>info@sorevanasleep.com</strong></p>",
+        "information_menu": "",
+        "policies_menu": "",
+        "opening_hours": "Monday - Friday: 9:00 - 17.00\nSaturday: 10.00 - 14.00\nSunday: 10.00 - 14.00"
+      }
     }
   },
   "order": [
-    "footer_geBQk8",
     "main",
     "featured_collection_fFfDyi",
     "testimonials_WKwbQx",
     "media_with_text_NkFATK",
     "faq_TaRiGA",
-    "1738002897803478fa"
+    "1738002897803478fa",
+    "footer_geBQk8"
   ]
 }
