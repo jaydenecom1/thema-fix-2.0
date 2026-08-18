@@ -1,188 +1,213 @@
-<div class="custom-footer-premium">
-  <div class="page-width custom-footer-premium__inner">
-    <div class="custom-footer-premium__grid">
+<div class="custom-footer-luxe">
+  <div class="page-width custom-footer-luxe__inner">
+    <div class="custom-footer-luxe__grid">
 
-      <div class="custom-footer-premium__column custom-footer-premium__brand">
+      <div class="custom-footer-luxe__column custom-footer-luxe__brand">
         {%- if section.settings.logo != blank -%}
           <img
-            src="{{ section.settings.logo | image_url: width: 320 }}"
+            src="{{ section.settings.logo | image_url: width: 360 }}"
             alt="{{ shop.name }}"
-            class="custom-footer-premium__logo"
+            class="custom-footer-luxe__logo"
           >
         {%- else -%}
-          <h3 class="custom-footer-premium__shop-name">{{ shop.name }}</h3>
+          <h3 class="custom-footer-luxe__shop-name">{{ shop.name }}</h3>
         {%- endif -%}
       </div>
 
-      <div class="custom-footer-premium__column">
-        <h4 class="custom-footer-premium__heading">Customer Support</h4>
-        <div class="custom-footer-premium__text rte">
+      <div class="custom-footer-luxe__column">
+        <h4 class="custom-footer-luxe__heading">Need Help?</h4>
+        <div class="custom-footer-luxe__text rte">
           {{ section.settings.support_text }}
         </div>
       </div>
 
-      <div class="custom-footer-premium__column">
-        <h4 class="custom-footer-premium__heading">Information</h4>
-        {%- if section.settings.footer_menu != blank -%}
-          <ul class="custom-footer-premium__links" role="list">
-            {%- for link in section.settings.footer_menu.links -%}
-              <li>
-                <a href="{{ link.url }}">{{ link.title }}</a>
-              </li>
+      <div class="custom-footer-luxe__column">
+        <h4 class="custom-footer-luxe__heading">Information</h4>
+        {%- if section.settings.information_menu != blank -%}
+          <ul class="custom-footer-luxe__links" role="list">
+            {%- for link in section.settings.information_menu.links -%}
+              <li><a href="{{ link.url }}">{{ link.title }}</a></li>
             {%- endfor -%}
           </ul>
         {%- endif -%}
       </div>
 
-      <div class="custom-footer-premium__column">
-        <h4 class="custom-footer-premium__heading">Opening Hours</h4>
-        <div class="custom-footer-premium__text rte">
-          {{ section.settings.opening_hours | newline_to_br }}
-        </div>
+      <div class="custom-footer-luxe__column">
+        <h4 class="custom-footer-luxe__heading">Policies</h4>
+        {%- if section.settings.policies_menu != blank -%}
+          <ul class="custom-footer-luxe__links" role="list">
+            {%- for link in section.settings.policies_menu.links -%}
+              <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {%- endfor -%}
+          </ul>
+        {%- endif -%}
       </div>
 
     </div>
 
-    <div class="custom-footer-premium__bottom">
-      <p class="custom-footer-premium__copyright">
-        &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.
-      </p>
+    <div class="custom-footer-luxe__bottom">
+      <div class="custom-footer-luxe__bottom-content">
+        <p class="custom-footer-luxe__hours">
+          {{ section.settings.opening_hours | newline_to_br }}
+        </p>
+        <p class="custom-footer-luxe__copyright">
+          &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.
+        </p>
+      </div>
     </div>
   </div>
 </div>
 
 <style>
-  .custom-footer-premium {
+  .custom-footer-luxe {
     background-color: #FAF2E6;
-    color: #1f1f1f;
-    padding: 72px 24px 28px;
+    color: #1e1c1a;
+    padding: 88px 28px 30px;
     font-family: "Montserrat", sans-serif;
   }
 
-  .custom-footer-premium__inner {
-    max-width: 1280px;
+  .custom-footer-luxe__inner {
+    max-width: 1320px;
     margin: 0 auto;
   }
 
-  .custom-footer-premium__grid {
+  .custom-footer-luxe__grid {
     display: grid;
-    grid-template-columns: 1.2fr 1fr 1fr 1fr;
-    gap: 48px;
+    grid-template-columns: 1.3fr 1fr 1fr 1fr;
+    gap: 56px;
     align-items: start;
   }
 
-  .custom-footer-premium__column {
+  .custom-footer-luxe__column {
     min-width: 0;
   }
 
-  .custom-footer-premium__brand {
-    display: flex;
-    align-items: flex-start;
+  .custom-footer-luxe__brand {
+    padding-right: 16px;
   }
 
-  .custom-footer-premium__logo {
-    max-width: 180px;
+  .custom-footer-luxe__logo {
+    max-width: 190px;
     width: 100%;
     height: auto;
     display: block;
   }
 
-  .custom-footer-premium__shop-name {
+  .custom-footer-luxe__shop-name {
     margin: 0;
-    font-size: 24px;
+    font-size: 26px;
     line-height: 1.2;
     font-weight: 600;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
   }
 
-  .custom-footer-premium__heading {
+  .custom-footer-luxe__heading {
     margin: 0 0 18px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.4;
     font-weight: 600;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: #1f1f1f;
+    color: #2a2724;
   }
 
-  .custom-footer-premium__text,
-  .custom-footer-premium__text p,
-  .custom-footer-premium__links a,
-  .custom-footer-premium__copyright {
+  .custom-footer-luxe__text,
+  .custom-footer-luxe__text p,
+  .custom-footer-luxe__links a,
+  .custom-footer-luxe__hours,
+  .custom-footer-luxe__copyright {
     font-size: 14px;
-    line-height: 1.9;
+    line-height: 2;
     font-weight: 400;
-    color: #3e3a36;
+    color: #4d4741;
     text-decoration: none;
   }
 
-  .custom-footer-premium__text p {
+  .custom-footer-luxe__text p {
     margin: 0;
+    max-width: 280px;
   }
 
-  .custom-footer-premium__links {
+  .custom-footer-luxe__links {
     list-style: none;
     padding: 0;
     margin: 0;
   }
 
-  .custom-footer-premium__links li {
+  .custom-footer-luxe__links li {
     margin: 0 0 8px;
   }
 
-  .custom-footer-premium__links a:hover {
-    opacity: 0.7;
+  .custom-footer-luxe__links a {
+    transition: opacity 0.2s ease;
   }
 
-  .custom-footer-premium__bottom {
-    margin-top: 48px;
-    padding-top: 20px;
-    border-top: 1px solid rgba(31, 31, 31, 0.10);
+  .custom-footer-luxe__links a:hover {
+    opacity: 0.65;
   }
 
-  .custom-footer-premium__copyright {
+  .custom-footer-luxe__bottom {
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid rgba(30, 28, 26, 0.10);
+  }
+
+  .custom-footer-luxe__bottom-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: flex-end;
+  }
+
+  .custom-footer-luxe__hours,
+  .custom-footer-luxe__copyright {
     margin: 0;
-    text-align: center;
   }
 
-  @media screen and (max-width: 990px) {
-    .custom-footer-premium {
-      padding: 56px 20px 24px;
+  .custom-footer-luxe__hours {
+    max-width: 420px;
+  }
+
+  @media screen and (max-width: 1100px) {
+    .custom-footer-luxe {
+      padding: 68px 22px 26px;
     }
 
-    .custom-footer-premium__grid {
+    .custom-footer-luxe__grid {
       grid-template-columns: 1fr 1fr;
-      gap: 36px 28px;
+      gap: 40px 30px;
+    }
+
+    .custom-footer-luxe__bottom-content {
+      flex-direction: column;
+      align-items: flex-start;
     }
   }
 
   @media screen and (max-width: 640px) {
-    .custom-footer-premium {
-      padding: 48px 16px 22px;
+    .custom-footer-luxe {
+      padding: 52px 16px 24px;
     }
 
-    .custom-footer-premium__grid {
+    .custom-footer-luxe__grid {
       grid-template-columns: 1fr;
-      gap: 28px;
+      gap: 30px;
     }
 
-    .custom-footer-premium__logo {
-      max-width: 150px;
+    .custom-footer-luxe__logo {
+      max-width: 160px;
     }
 
-    .custom-footer-premium__bottom {
-      margin-top: 32px;
-    }
-
-    .custom-footer-premium__copyright {
-      text-align: left;
+    .custom-footer-luxe__bottom {
+      margin-top: 36px;
+      padding-top: 18px;
     }
   }
 </style>
 
 {% schema %}
 {
-  "name": "Premium footer",
+  "name": "Luxury footer",
   "settings": [
     {
       "type": "image_picker",
@@ -192,13 +217,18 @@
     {
       "type": "richtext",
       "id": "support_text",
-      "label": "Customer Support tekst",
-      "default": "<p>Need help with your order or have a question about delivery? Our customer support team is here to help you.</p>"
+      "label": "Need Help tekst",
+      "default": "<p>Need help with your order, shipping or product questions? Our support team is here to assist you with care.</p>"
     },
     {
       "type": "link_list",
-      "id": "footer_menu",
-      "label": "Footer menu"
+      "id": "information_menu",
+      "label": "Information menu"
+    },
+    {
+      "type": "link_list",
+      "id": "policies_menu",
+      "label": "Policies menu"
     },
     {
       "type": "textarea",
@@ -210,7 +240,7 @@
   "blocks": [],
   "presets": [
     {
-      "name": "Premium footer"
+      "name": "Luxury footer"
     }
   ]
 }
