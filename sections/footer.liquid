@@ -23,15 +23,15 @@
 
       <div class="custom-footer-premium__column">
         <h4 class="custom-footer-premium__heading">Information</h4>
-        <ul class="custom-footer-premium__links" role="list">
-          {%- if section.settings.faq_link != blank -%}
-            <li><a href="{{ section.settings.faq_link }}">FAQ</a></li>
-          {%- endif -%}
-          <li><a href="{{ routes.root_url }}policies/privacy-policy">Privacy Policy</a></li>
-          <li><a href="{{ routes.root_url }}policies/refund-policy">Refund Policy</a></li>
-          <li><a href="{{ routes.root_url }}policies/terms-of-service">Terms of Service</a></li>
-          <li><a href="{{ routes.root_url }}policies/shipping-policy">Shipping Policy</a></li>
-        </ul>
+        {%- if section.settings.footer_menu != blank -%}
+          <ul class="custom-footer-premium__links" role="list">
+            {%- for link in section.settings.footer_menu.links -%}
+              <li>
+                <a href="{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        {%- endif -%}
       </div>
 
       <div class="custom-footer-premium__column">
@@ -196,9 +196,9 @@
       "default": "<p>Need help with your order or have a question about delivery? Our customer support team is here to help you.</p>"
     },
     {
-      "type": "url",
-      "id": "faq_link",
-      "label": "FAQ link"
+      "type": "link_list",
+      "id": "footer_menu",
+      "label": "Footer menu"
     },
     {
       "type": "textarea",
