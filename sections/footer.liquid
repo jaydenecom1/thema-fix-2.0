@@ -1,45 +1,83 @@
-<div class="footer color-{{ section.settings.color_scheme }}">
-  <div class="page-width" style="padding: 24px 0; text-align: center;">
-    <p style="margin: 0 0 12px 0;">
-      &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.
-    </p>
+<div class="custom-footer" style="background-color: #FAF2E6; padding: 40px 20px;">
+  <div class="page-width" style="max-width: 1200px; margin: 0 auto;">
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; align-items: start;">
 
-    {%- if section.settings.show_payment_icons and shop.enabled_payment_types.size > 0 -%}
-      <div class="footer__payment-icons" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-        {%- for type in shop.enabled_payment_types -%}
-          {{ type | payment_type_svg_tag }}
-        {%- endfor -%}
+      <div>
+        {%- if section.settings.logo != blank -%}
+          <img
+            src="{{ section.settings.logo | image_url: width: 220 }}"
+            alt="{{ shop.name }}"
+            style="max-width: 180px; height: auto; margin-bottom: 15px;"
+          >
+        {%- else -%}
+          <h3 style="margin: 0;">{{ shop.name }}</h3>
+        {%- endif -%}
       </div>
-    {%- endif -%}
+
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 12px;">Customer Support</h4>
+        <p style="margin: 0; line-height: 1.6;">
+          {{ section.settings.support_text }}
+        </p>
+      </div>
+
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 12px;">Helpful links</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+          <li><a href="{{ section.settings.faq_link }}">FAQ</a></li>
+          <li><a href="{{ routes.root_url }}policies/privacy-policy">Privacy Policy</a></li>
+          <li><a href="{{ routes.root_url }}policies/refund-policy">Refund Policy</a></li>
+          <li><a href="{{ routes.root_url }}policies/terms-of-service">Terms of Service</a></li>
+          <li><a href="{{ routes.root_url }}policies/shipping-policy">Shipping Policy</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 12px;">Openingstijden</h4>
+        <p style="margin: 0; line-height: 1.8;">
+          {{ section.settings.opening_hours }}
+        </p>
+      </div>
+
+    </div>
+
+    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(0,0,0,0.1); text-align: center;">
+      <p style="margin: 0;">&copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.</p>
+    </div>
   </div>
 </div>
 
 {% schema %}
 {
-  "name": "Footer",
+  "name": "Custom footer",
   "settings": [
     {
-      "type": "select",
-      "id": "color_scheme",
-      "label": "Kleurschema",
-      "default": "background-1",
-      "options": [
-        { "value": "background-1", "label": "Background 1" },
-        { "value": "background-2", "label": "Background 2" },
-        { "value": "inverse", "label": "Inverse" }
-      ]
+      "type": "image_picker",
+      "id": "logo",
+      "label": "Logo"
     },
     {
-      "type": "checkbox",
-      "id": "show_payment_icons",
-      "label": "Toon betaaliconen",
-      "default": true
+      "type": "textarea",
+      "id": "support_text",
+      "label": "Customer Support tekst",
+      "default": "Need help with your order? Our customer support team is here to assist you."
+    },
+    {
+      "type": "url",
+      "id": "faq_link",
+      "label": "FAQ link"
+    },
+    {
+      "type": "textarea",
+      "id": "opening_hours",
+      "label": "Openingstijden",
+      "default": "Monday - Friday: 9:00 - 17:00"
     }
   ],
   "blocks": [],
   "presets": [
     {
-      "name": "Footer"
+      "name": "Custom footer"
     }
   ]
 }
