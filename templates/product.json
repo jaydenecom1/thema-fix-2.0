@@ -82,12 +82,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_kJjCGY": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<p><strong>SALE UPDATE:</strong> Due to high order volume, our stock is very limited. If you are still able to press the \"Add to Cart\" button above, there's still some stock left!</p>"
-          }
-        },
         "image_BirJDm": {
           "type": "image",
           "settings": {
@@ -118,7 +112,6 @@
         "payment_terms",
         "liquid_z6LpBE",
         "buy_buttons",
-        "liquid_kJjCGY",
         "image_BirJDm",
         "description",
         "fether_frequently_bought_widget_block_UxkbBc"
