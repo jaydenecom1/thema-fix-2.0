@@ -9915,20 +9915,15 @@ split-lines {
 }
 
 .product-card__info .alireviews-review-star-rating > div {
+  display: inline-flex !important;
+  width: auto !important;
   justify-content: flex-start !important;
-  text-align: left !important;
+  align-items: center !important;
   margin-left: 0 !important;
-  margin-right: auto !important;
+  margin-right: 0 !important;
 }
 
-.product-card__info .alireviews-review-star-rating [class*="star-rating"] {
-  justify-content: flex-start !important;
-  text-align: left !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
+.product-card__info .alireviews-review-star-rating .alr-wh-star-rating-average-number {
+  margin-left: 4px !important;
+  margin-right: 0 !important;
 }
-
-
-
-
-
