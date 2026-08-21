@@ -156,7 +156,7 @@ Supported variables
       {%- else -%}
         <span class="product-card__title"><a href="{{ product.url }}" class="bold">{{ product.title }}</a></span>
       {%- endif -%}
-
+<div product-id="{{ product.id }}" product-handle="{{ product.handle }}" class="alireviews-review-star-rating"></div>
       {%- render 'price-list', product: product, text_alignment: text_alignment -%}
     </div>
 
