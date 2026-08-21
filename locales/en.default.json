@@ -434,7 +434,7 @@
       },
       "alternative_payment_method_banner": {
         "express_checkout": "★★★★★ Rated 4.7/5 • Secure Checkout • Easy Returns",
-        "or": "Or pay another way"
+        "or": "Or pay by card"
       }
     }
   },
