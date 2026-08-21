@@ -100,7 +100,7 @@
           "logo": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo_500_x_200_px_5.png",
           "logo_max_width": 220,
           "logo_mobile_max_width": 135,
-          "menu": "",
+          "menu": "main-menu",
           "sidebar_menu": "",
           "secondary_menu": "",
           "menu_open_trigger": "click",
