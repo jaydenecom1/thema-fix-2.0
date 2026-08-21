@@ -433,7 +433,8 @@
         "email_or_phone_label": "Email"
       },
       "alternative_payment_method_banner": {
-        "express_checkout": "★★★★★ Rated 4.7/5 • Secure Checkout • Easy Returns"
+        "express_checkout": "★★★★★ Rated 4.7/5 • Secure Checkout • Easy Returns",
+        "or": "Or pay another way"
       }
     }
   },
