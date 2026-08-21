@@ -9927,3 +9927,28 @@ split-lines {
   margin-left: 4px !important;
   margin-right: 0 !important;
 }
+.product-card__info > .v-stack {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 12px;
+  row-gap: 4px;
+  align-items: center;
+}
+
+.product-card__info > .v-stack > .rating-with-text,
+.product-card__info > .v-stack > .product-card__title {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.product-card__info > .v-stack > :last-child {
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: end;
+  align-self: center;
+}
+
+.product-card__info > .v-stack > .alireviews-review-star-rating {
+  grid-column: 1 / -1;
+  grid-row: 2;
+}
