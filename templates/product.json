@@ -197,17 +197,6 @@
     "testimonials_WKwbQx": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_WbicT6": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
         "testimonial_8Cf8jf": {
           "type": "testimonial",
           "settings": {
@@ -216,7 +205,7 @@
             "rating": 5,
             "author": "Janet H.",
             "title": "Exactly what I needed",
-            "content": "<p>This fit is perfect and the fabric feels so soft. Very happy with the quality – will definitely order again.</p>"
+            "content": "<p>This pillow is perfect and the fabric feels so soft. Very happy with the quality – will definitely order again.</p>"
           }
         },
         "testimonial_atKPTr": {
@@ -226,8 +215,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Linda S.",
-            "title": "Great service",
-            "content": "<p>I was honestly a bit hesitant ordering online, but this exceeded my expectations. The fit is comfortable without feeling tight, and the quality feels very reliable. It’s exactly what I was looking for.<br/><br/></p>"
+            "title": "Really comfortable",
+            "content": "<p>Really comfortable and supportive. I’ve been sleeping much better since using it,<br/><br/><br/></p>"
           }
         },
         "testimonial_GwrVdP": {
@@ -237,8 +226,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "Carol B.",
-            "title": "So comfortable and flattering",
-            "content": "<p>Feels amazing on my skin and fits just right. Haven’t felt this confident in a while!</p>"
+            "title": "So soft and comfortable",
+            "content": "<p>Soft, comfortable and exactly what I was hoping for. Very happy with my purchase,<br/><br/></p>"
           }
         },
         "testimonial_f6ALiy": {
@@ -248,8 +237,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Susan M.",
-            "title": "Great customer service",
-            "content": "<p>Had a question about sizing and got a reply within an hour. Friendly and helpful, made the whole experience stress-free.</p>"
+            "title": "I really sleep better",
+            "content": "<p>I noticed a difference after the first few nights. It feels supportive without being too firm,<br/><br/></p>"
           }
         },
         "testimonial_dyE34T": {
@@ -260,12 +249,11 @@
             "rating": 4,
             "author": "Deborah T.",
             "title": "Lovely quality",
-            "content": "<p>Better than expected. The material feels premium and it looks even nicer than the photos.</p>"
+            "content": "<p>Great quality and very comfortable to sleep on. Definitely worth it,<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "testimonial_WbicT6",
         "testimonial_8Cf8jf",
         "testimonial_atKPTr",
         "testimonial_GwrVdP",
