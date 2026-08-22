@@ -43,7 +43,7 @@
         "liquid_NQ9rBP": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"trust-bullets\">\n  <div class=\"trust-item\">\n    <span class=\"trust-icon\">\n      <svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\">\n        <path d=\"M3 7h11v8H3z\"></path>\n        <path d=\"M14 10h4l3 3v2h-7z\"></path>\n        <circle cx=\"7\" cy=\"18\" r=\"2\"></circle>\n        <circle cx=\"17\" cy=\"18\" r=\"2\"></circle>\n      </svg>\n    </span>\n    <span><strong>Free Shipping</strong></span>\n  </div>\n\n  <div class=\"trust-item\">\n    <span class=\"trust-icon\">\n      <svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\">\n        <circle cx=\"12\" cy=\"12\" r=\"9\"></circle>\n        <path d=\"m8.5 12 2.2 2.2L15.8 9\"></path>\n      </svg>\n    </span>\n    <span>30-Day <strong>Money-Back Guarantee</strong></span>\n  </div>\n\n  <div class=\"trust-item\">\n    <span class=\"trust-icon\">\n      <svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\">\n        <circle cx=\"12\" cy=\"12\" r=\"9\"></circle>\n        <path d=\"M3 12h18\"></path>\n        <path d=\"M12 3a15 15 0 0 1 0 18\"></path>\n        <path d=\"M12 3a15 15 0 0 0 0 18\"></path>\n      </svg>\n    </span>\n    <span>Buy 2 get <strong>discount</strong>\n  </div>\n</div>"
+            "liquid": "<div class=\"product-trust-badges\" style=\"display:grid;gap:12px;\">\n  <div style=\"display:flex;align-items:center;gap:8px;\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M3 7.5 12 3l9 4.5v9L12 21l-9-4.5v-9Z\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/><path d=\"M3.5 7.7 12 12l8.5-4.3M12 12v8.5M16.5 6.2 8 10.5\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/><path d=\"M15.5 14.5h5M18 12l2.5 2.5L18 17\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span>Free Shipping across the US</span></div>\n  <div style=\"display:flex;align-items:center;gap:8px;\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"currentColor\" stroke-width=\"1.7\"/><path d=\"m7.5 12.2 3 3 6-6\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span>30-Day Money-Back Guarantee</span></div>\n  <div style=\"display:flex;align-items:center;gap:8px;\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"#0070ba\" d=\"M6.3 20.5 9.1 4.8h5.5c3.3 0 5.3 1.7 4.8 4.6-.5 3-2.8 4.6-6 4.6h-2.1l-1.1 6.5H6.3Zm5.8-9.2h1.5c1.5 0 2.5-.7 2.7-1.8.2-1.1-.5-1.7-2-1.7h-1.5l-.7 3.5Z\"/><path fill=\"#003087\" d=\"m4.6 18.2 2.7-15h6.2c2.2 0 3.9.6 4.9 1.8-1-3.1-3.7-4.5-7.3-4.5H5.4L2.5 18.2h2.1Z\"/></svg><span>Secure payment with PayPal &amp; Credit Card</span></div>\n</div>"
           }
         },
         "rating": {
@@ -135,6 +135,34 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "17873241639bc82234": {
+      "type": "apps",
+      "blocks": {
+        "ali_reviews_widget_box_JW8YTr": {
+          "type": "shopify://apps/ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "ali_reviews_widget_box_JW8YTr"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "featured_collection_fFfDyi": {
@@ -363,34 +391,6 @@
         "information_menu": "information",
         "policies_menu": "footer",
         "opening_hours": "Monday - Friday: 9:00 - 17.00\nSaturday: 10.00 - 14.00\nSunday: 10.00 - 14.00"
-      }
-    },
-    "17873241639bc82234": {
-      "type": "apps",
-      "blocks": {
-        "ali_reviews_widget_box_JW8YTr": {
-          "type": "shopify://apps/ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "ali_reviews_widget_box_JW8YTr"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     }
   },
